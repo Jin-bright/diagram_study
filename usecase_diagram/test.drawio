@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T08:04:01.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pRSiOkX1y2LEpyyB6soz" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T05:57:38.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZV_T0UU7NL-5CZH8wYQP" version="21.6.5" type="github">
   <diagram name="페이지-1" id="sYgcCLTAoJjAeG1pjwmj">
     <mxGraphModel dx="2074" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4KqqWzj8_jCF8s9pvPA0-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="450" width="140" height="60" as="geometry" />
+        <mxCell id="4KqqWzj8_jCF8s9pvPA0-2" value="산책을 가야겠다는&amp;nbsp;&lt;br&gt;생각을 한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="530" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4KqqWzj8_jCF8s9pvPA0-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="4KqqWzj8_jCF8s9pvPA0-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="530" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4KqqWzj8_jCF8s9pvPA0-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt; 숙제_0726&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;나한테 친숙한 행동 한가지 짜기&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=&amp;gt; 넷플릭스보기&amp;nbsp; &amp;nbsp;런데이하기&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4KqqWzj8_jCF8s9pvPA0-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt; 숙제_0726&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;나한테 친숙한 행동 한가지 짜기&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;=&amp;gt; 저녁먹고 언니랑 천호공원 산책가기&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="110" width="390" height="60" as="geometry" />
         </mxCell>
       </root>
