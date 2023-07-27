@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T08:25:04.592Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="IcNYVBrdSsC5a-rzEgZg" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T08:31:00.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jet6tnmCGufeIiZCrtbp" version="21.6.5" type="github">
   <diagram name="페이지-1" id="sYgcCLTAoJjAeG1pjwmj">
     <mxGraphModel dx="2074" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,13 +50,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XLeCKCvdoxdbFb9m1tCh-11" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;( else 옷을 갈아입지 않는다)&lt;br&gt;현관으로 걷는다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="580" width="150" height="60" as="geometry" />
+          <mxGeometry x="1790" y="580" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XLeCKCvdoxdbFb9m1tCh-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLeCKCvdoxdbFb9m1tCh-12" target="XLeCKCvdoxdbFb9m1tCh-37">
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLeCKCvdoxdbFb9m1tCh-12" target="XLeCKCvdoxdbFb9m1tCh-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLeCKCvdoxdbFb9m1tCh-12" target="XLeCKCvdoxdbFb9m1tCh-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLeCKCvdoxdbFb9m1tCh-12" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;옷장문을 연다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="320" width="80" height="60" as="geometry" />
+          <mxGeometry x="1000" y="320" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XLeCKCvdoxdbFb9m1tCh-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLeCKCvdoxdbFb9m1tCh-14" target="XLeCKCvdoxdbFb9m1tCh-18">
           <mxGeometry relative="1" as="geometry">
@@ -100,9 +103,7 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="620" y="525" as="sourcePoint" />
             <mxPoint x="1010" y="440" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="850" y="520" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XLeCKCvdoxdbFb9m1tCh-32" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="XLeCKCvdoxdbFb9m1tCh-11">
@@ -110,7 +111,7 @@
             <mxPoint x="680" y="645" as="sourcePoint" />
             <mxPoint x="1085" y="615" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="850" y="660" />
+              <mxPoint x="1250" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -127,28 +128,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLeCKCvdoxdbFb9m1tCh-37" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;옷을 꺼낸다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="320" width="70" height="60" as="geometry" />
+          <mxGeometry x="1290" y="320" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XLeCKCvdoxdbFb9m1tCh-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLeCKCvdoxdbFb9m1tCh-38" target="XLeCKCvdoxdbFb9m1tCh-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLeCKCvdoxdbFb9m1tCh-38" value="옷장문을 닫는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="320" width="100" height="60" as="geometry" />
+          <mxGeometry x="1380" y="320" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XLeCKCvdoxdbFb9m1tCh-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLeCKCvdoxdbFb9m1tCh-39" target="XLeCKCvdoxdbFb9m1tCh-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLeCKCvdoxdbFb9m1tCh-39" value="입고 있던 옷을 벗는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="320" width="130" height="60" as="geometry" />
+          <mxGeometry x="1500" y="320" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XLeCKCvdoxdbFb9m1tCh-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLeCKCvdoxdbFb9m1tCh-40" target="XLeCKCvdoxdbFb9m1tCh-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLeCKCvdoxdbFb9m1tCh-40" value="옷장에서 꺼낸 옷을 입는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="320" width="150" height="60" as="geometry" />
+          <mxGeometry x="1660" y="320" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1880" y="380" as="sourcePoint" />
+            <mxPoint x="1880" y="580.02" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XLeCKCvdoxdbFb9m1tCh-62" value="기존 옷은 딴데 둔다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1830" y="320" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-67" value="옷을 본다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="320" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLeCKCvdoxdbFb9m1tCh-69" target="XLeCKCvdoxdbFb9m1tCh-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-69" value="갈아입을 &lt;br&gt;옷을 고른다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="320" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
