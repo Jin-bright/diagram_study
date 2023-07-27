@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T08:31:00.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jet6tnmCGufeIiZCrtbp" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T08:37:21.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Da1jMe37CrMkJAHNt95U" version="21.6.5" type="github">
   <diagram name="페이지-1" id="sYgcCLTAoJjAeG1pjwmj">
     <mxGraphModel dx="2074" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XLeCKCvdoxdbFb9m1tCh-11" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;( else 옷을 갈아입지 않는다)&lt;br&gt;현관으로 걷는다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="580" width="150" height="60" as="geometry" />
+          <mxGeometry x="1790" y="530" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XLeCKCvdoxdbFb9m1tCh-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XLeCKCvdoxdbFb9m1tCh-12" target="XLeCKCvdoxdbFb9m1tCh-69">
           <mxGeometry relative="1" as="geometry" />
@@ -148,10 +148,10 @@
         <mxCell id="XLeCKCvdoxdbFb9m1tCh-40" value="옷장에서 꺼낸 옷을 입는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1660" y="320" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XLeCKCvdoxdbFb9m1tCh-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1880" y="380" as="sourcePoint" />
-            <mxPoint x="1880" y="580.02" as="targetPoint" />
+            <mxPoint x="1880" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XLeCKCvdoxdbFb9m1tCh-62" value="기존 옷은 딴데 둔다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -165,6 +165,60 @@
         </mxCell>
         <mxCell id="XLeCKCvdoxdbFb9m1tCh-69" value="갈아입을 &lt;br&gt;옷을 고른다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="320" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-74" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;현관문을 연다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="530" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-75" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;복도를 걷는다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="530" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-76" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;엘레베이터 앞에 선다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="530" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-77" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;엘레베이터 &lt;br&gt;버튼을 누른다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="530" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-78" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;엘레베이터를 &lt;br&gt;기다린다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="530" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-79" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;엘레베이터를&amp;nbsp;&lt;br&gt;탄다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="530" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-80" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;1층을 누른다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2690" y="530" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-81" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;문이 열리면 &lt;br&gt;내린다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="530" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-82" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;문이 열리면 &lt;br&gt;내린다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="530" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-83" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;공원으로 걷는다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="530" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-84" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;공원을 산책한다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3180" y="530" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-85" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;집에 돌아가야겠다는 생각을 한다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3300" y="530" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-86" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;집에 돌아가자는 제안을 듣는다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3300" y="627" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-87" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;집을 향해 걷는다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="567" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-88" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;신호등앞에 선다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3520" y="500" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-89" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;신호가 바뀌길 &lt;br&gt;기다린다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3632" y="500" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-90" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;신호등을 건넌다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3722" y="570" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-91" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3840" y="570" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
