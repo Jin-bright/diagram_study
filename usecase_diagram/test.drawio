@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T01:20:01.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Ob-uGua3gI_r8jA188yQ" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T01:25:04.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="0Wu_lqNtwODJk1Bs1IwQ" version="21.6.5" type="github">
   <diagram name="페이지-1" id="sYgcCLTAoJjAeG1pjwmj">
     <mxGraphModel dx="2074" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,21 +91,21 @@
             <mxPoint x="680" y="558.98" as="sourcePoint" />
             <mxPoint x="987.0500000000002" y="507" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="830" y="510" />
+              <mxPoint x="850" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XLeCKCvdoxdbFb9m1tCh-32" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="XLeCKCvdoxdbFb9m1tCh-11" edge="1">
+        <mxCell id="XLeCKCvdoxdbFb9m1tCh-32" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="680" y="561" as="sourcePoint" />
-            <mxPoint x="1780" y="561" as="targetPoint" />
+            <mxPoint x="680" y="559" as="sourcePoint" />
+            <mxPoint x="1790" y="558" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1130" y="410" />
+              <mxPoint x="1270" y="388" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XLeCKCvdoxdbFb9m1tCh-33" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;if 서있는 경우&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="485" width="110" height="40" as="geometry" />
+          <mxGeometry x="810" y="477.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XLeCKCvdoxdbFb9m1tCh-35" value="&lt;div style=&quot;text-align: center;&quot;&gt;&amp;lt; 질문 &amp;gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;이걸 프로그램으로 생각하고 짜야되는데&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&amp;gt; 내가 프로그램을 실행하는건데 .. ?&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;피동형 ? 당하는게 가능한가 ?&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;그리고 승낙을 듣는 과정이 필요한가 ?&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;ex)&amp;nbsp;&lt;/div&gt;언니로부터&amp;nbsp;&lt;span style=&quot;text-align: center;&quot;&gt;산책을 가자는 제안을 듣는다 -&amp;gt; 제안을 승낙한다&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="210" y="830" width="290" height="160" as="geometry" />
