@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T06:02:44.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="2HWInRH3dkZrLtpTYUgx" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T06:03:59.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="xI11Xl7ChUdeVqcUxkyg" version="21.6.5" type="github">
   <diagram name="페이지-1" id="sYgcCLTAoJjAeG1pjwmj">
     <mxGraphModel dx="2712" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="4KqqWzj8_jCF8s9pvPA0-3" value="Actor (나 = 혜진)&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry y="540" width="60" height="97.5" as="geometry" />
         </mxCell>
-        <mxCell id="4KqqWzj8_jCF8s9pvPA0-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt; 숙제_0726&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;나한테 친숙한 행동 한 가지를 가지고 Use case diagram 만들기&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;=&amp;gt; 저녁 먹고 언니랑 천호공원에서 &lt;strike&gt;산책&amp;nbsp; &lt;/strike&gt;걷기&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="4KqqWzj8_jCF8s9pvPA0-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt; 숙제_0726&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;나한테 친숙한 행동 한 가지를 가지고 Use case diagram 만들기&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;=&amp;gt; 저녁을 먹고 언니랑 천호공원을&amp;nbsp;&lt;strike&gt;산책&amp;nbsp; &lt;/strike&gt;걷는다&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="40" y="20" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XLeCKCvdoxdbFb9m1tCh-6" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt; 시작점&amp;nbsp; &amp;gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;나는 언니랑 저녁을 먹고 집에서 쉬고 있는 중이다.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;lt; 종료점 &amp;gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp;산책을 한다 ( 이후 집에갈지 마트 갈지 카페갈지 모름)&amp;nbsp;&lt;/div&gt;&lt;br&gt;- 조건&amp;nbsp;&lt;br&gt;1) 어디를 산책할지 산책 장소는 fix되어있다 (천호공원)&lt;br&gt;2) 비나 눈이 오지않는 날에만 걸으러나간다&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=left;" parent="1" vertex="1">
@@ -70,16 +70,16 @@
           <mxGeometry x="810" y="551.76" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FUzFIuwG7qgmaGk0ISnc-20" value="언니랑 공원가서 어떤 프로세스로 걷지 ?&amp;nbsp;&lt;br&gt;&lt;br&gt;일단 입구로 들어간다&amp;nbsp;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFBF5;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="785" y="895" width="320" height="290" as="geometry" />
+          <mxGeometry x="740" y="1050" width="320" height="290" as="geometry" />
         </mxCell>
         <mxCell id="FUzFIuwG7qgmaGk0ISnc-24" value="트랙을 반시계방향으로 걷는다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="870" width="137" height="60" as="geometry" />
+          <mxGeometry x="788" y="1360" width="137" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FUzFIuwG7qgmaGk0ISnc-25" value="지나가는 개랑 인사하면서 걷는다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1157" y="945" width="135" height="60" as="geometry" />
+          <mxGeometry x="790" y="1435" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FUzFIuwG7qgmaGk0ISnc-26" value="농구하는 사람들 구경하면서 걷는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1158.5" y="1015" width="133.5" height="60" as="geometry" />
+          <mxGeometry x="791.5" y="1505" width="133.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FUzFIuwG7qgmaGk0ISnc-27" value="3바퀴쯤 걷고나면 &lt;br&gt;운동기구쪽으로 간다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="557.13" width="133.5" height="60" as="geometry" />
@@ -97,10 +97,10 @@
           <mxGeometry x="1480" y="562.13" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FUzFIuwG7qgmaGk0ISnc-33" value="각자 오늘의 하루에 대해서 얘기하면서 걷는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1292" y="975" width="135" height="60" as="geometry" />
+          <mxGeometry x="925" y="1465" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FUzFIuwG7qgmaGk0ISnc-34" value="집 or 마트 or 다이소 or 올영 or&amp;nbsp; 빵집 or 서점&amp;nbsp; or ^^.. 넘 많네&amp;nbsp;&lt;br&gt;로 간다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1047" y="1375" width="380" height="60" as="geometry" />
+          <mxGeometry x="680" y="1865" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FUzFIuwG7qgmaGk0ISnc-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FUzFIuwG7qgmaGk0ISnc-35" target="FUzFIuwG7qgmaGk0ISnc-27">
           <mxGeometry relative="1" as="geometry" />
@@ -180,19 +180,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FUzFIuwG7qgmaGk0ISnc-55" value="3바퀴쯤 걷고나면 &lt;br&gt;운동기구쪽으로 간다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1167.9" y="1095" width="133.5" height="60" as="geometry" />
+          <mxGeometry x="800.9000000000001" y="1585" width="133.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FUzFIuwG7qgmaGk0ISnc-56" value="팔운동기구를 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1115" y="1175" width="117" height="60" as="geometry" />
+          <mxGeometry x="748" y="1665" width="117" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FUzFIuwG7qgmaGk0ISnc-57" value="풀로 차면 1바퀴 더 걷고온다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1247.5" y="1175" width="117" height="60" as="geometry" />
+          <mxGeometry x="880.5" y="1665" width="117" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FUzFIuwG7qgmaGk0ISnc-58" value="2바퀴쯤 더 걷는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1177" y="1235" width="117" height="60" as="geometry" />
+          <mxGeometry x="810" y="1725" width="117" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FUzFIuwG7qgmaGk0ISnc-59" value="공원을 &lt;br&gt;(들어왔던입구로) &lt;br&gt;빠져 나온다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1174.5" y="1305" width="117" height="60" as="geometry" />
+          <mxGeometry x="807.5" y="1795" width="117" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FUzFIuwG7qgmaGk0ISnc-60" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&lt;font color=&quot;#ff2908&quot;&gt;이게 필요하니 ?&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1039" y="627.5" width="90" height="22.5" as="geometry" />
