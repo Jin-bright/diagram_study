@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T08:30:20.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="uWe0BWDtMCxaI9oPi0Pq" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T08:44:01.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="V2xLkwY-0DpJLMjas393" version="21.6.6" type="github">
   <diagram name="페이지-1" id="tYuTC0g_JtJMIlODlGY_">
     <mxGraphModel dx="2074" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,51 +163,51 @@
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-101" value="나 ( = 혜진)&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="2260" width="60" height="97.5" as="geometry" />
         </mxCell>
-        <mxCell id="RUlDnIiTWdbKFg5DgWMq-102" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;산책하러 간다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="149.63" y="2193.07" width="100" height="50" as="geometry" />
+        <mxCell id="RUlDnIiTWdbKFg5DgWMq-102" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;산책한다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="2193.07" width="99.63" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUlDnIiTWdbKFg5DgWMq-104" target="RUlDnIiTWdbKFg5DgWMq-128" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-104" value="트랙을 걷는다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="408.5" y="2010" width="100" height="50" as="geometry" />
+          <mxGeometry x="410.92" y="2022.43" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUlDnIiTWdbKFg5DgWMq-106" target="RUlDnIiTWdbKFg5DgWMq-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-106" value="트랙을 발견한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="288.5" y="2010" width="100" height="50" as="geometry" />
+          <mxGeometry x="290.92" y="2022.43" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-107" value="빨리 걷는다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="349" y="1900" width="80" height="55" as="geometry" />
+          <mxGeometry x="351.42" y="1912.43" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-108" value="천천히 걷는다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="478" y="1900" width="90" height="50" as="geometry" />
+          <mxGeometry x="480.42" y="1912.43" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-109" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RUlDnIiTWdbKFg5DgWMq-107" edge="1">
           <mxGeometry x="-0.1289" y="-4" width="160" relative="1" as="geometry">
-            <mxPoint x="397.4200000000001" y="1949.9950000000001" as="sourcePoint" />
-            <mxPoint x="430.5" y="2015" as="targetPoint" />
+            <mxPoint x="399.8400000000001" y="1962.4250000000002" as="sourcePoint" />
+            <mxPoint x="432.92" y="2027.43" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-110" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.78;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="510" y="1950" as="sourcePoint" />
-            <mxPoint x="486.5" y="2015" as="targetPoint" />
+            <mxPoint x="512.4200000000001" y="1962.43" as="sourcePoint" />
+            <mxPoint x="488.92" y="2027.43" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUlDnIiTWdbKFg5DgWMq-112" target="RUlDnIiTWdbKFg5DgWMq-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-112" value="벤치로 걸어간다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="2010" width="90" height="50" as="geometry" />
+          <mxGeometry x="652.4200000000001" y="2022.43" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUlDnIiTWdbKFg5DgWMq-114" target="RUlDnIiTWdbKFg5DgWMq-139" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-114" value="벤치에서 잠깐 쉰다&lt;br&gt;의자에 앉는다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="766" y="1999" width="110" height="70" as="geometry" />
+          <mxGeometry x="768.4200000000001" y="2011.43" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUlDnIiTWdbKFg5DgWMq-115" target="RUlDnIiTWdbKFg5DgWMq-136" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -219,10 +219,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-117" value="이쁜 꽃을 발견한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="288.5" y="2290" width="111.5" height="50" as="geometry" />
+          <mxGeometry x="286.5" y="2290" width="111.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-118" value="사진을 찍는다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="426.5" y="2290" width="80" height="50" as="geometry" />
+          <mxGeometry x="424.5" y="2290" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RUlDnIiTWdbKFg5DgWMq-104" target="RUlDnIiTWdbKFg5DgWMq-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -231,25 +231,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-121" value="트랙을 다시 걷는다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1027" y="2009" width="111" height="50" as="geometry" />
+          <mxGeometry x="1029.4199999999998" y="2021.43" width="111" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1246.9999600475435" y="2034.034482758621" as="sourcePoint" />
-            <mxPoint x="1266" y="2034" as="targetPoint" />
+            <mxPoint x="1249.4199600475433" y="2046.464482758621" as="sourcePoint" />
+            <mxPoint x="1268.4199999999998" y="2046.43" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-123" value="시계를 본다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1162" y="2009" width="84" height="50" as="geometry" />
+          <mxGeometry x="1164.4199999999998" y="2021.43" width="84" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-124" value="산책을 종료한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1266" y="2009" width="100" height="50" as="geometry" />
+          <mxGeometry x="1268.4199999999998" y="2021.43" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUlDnIiTWdbKFg5DgWMq-128" target="RUlDnIiTWdbKFg5DgWMq-112" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-128" value="힘들다고 느낀다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="2010" width="100" height="50" as="geometry" />
+          <mxGeometry x="532.4200000000001" y="2022.43" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -279,7 +279,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-139" value="의자에서 일어난다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="896" y="2009" width="111" height="50" as="geometry" />
+          <mxGeometry x="898.4200000000001" y="2021.43" width="111" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUlDnIiTWdbKFg5DgWMq-142" target="RUlDnIiTWdbKFg5DgWMq-143" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -315,7 +315,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-152" value="인터벌로 뛴다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414.5" y="2100" width="90" height="50" as="geometry" />
+          <mxGeometry x="416.92" y="2112.43" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-153" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="RUlDnIiTWdbKFg5DgWMq-152" target="RUlDnIiTWdbKFg5DgWMq-104" edge="1">
           <mxGeometry x="-0.4991" y="1" width="160" relative="1" as="geometry">
@@ -324,10 +324,10 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RUlDnIiTWdbKFg5DgWMq-156" value="" style="endArrow=none;html=1;rounded=0;entryX=0.021;entryY=0.661;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.664;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="RUlDnIiTWdbKFg5DgWMq-102" target="RUlDnIiTWdbKFg5DgWMq-106" edge="1">
+        <mxCell id="RUlDnIiTWdbKFg5DgWMq-156" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="RUlDnIiTWdbKFg5DgWMq-102" target="RUlDnIiTWdbKFg5DgWMq-106" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="2100" as="sourcePoint" />
-            <mxPoint x="300" y="2050" as="targetPoint" />
+            <mxPoint x="218.57432000000009" y="2206.5" as="sourcePoint" />
+            <mxPoint x="302.42" y="2062.43" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-157" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
@@ -339,10 +339,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RUlDnIiTWdbKFg5DgWMq-159" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RUlDnIiTWdbKFg5DgWMq-102" target="RUlDnIiTWdbKFg5DgWMq-117" edge="1">
+        <mxCell id="RUlDnIiTWdbKFg5DgWMq-159" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="RUlDnIiTWdbKFg5DgWMq-117" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="2263.82" as="sourcePoint" />
-            <mxPoint x="290" y="2353.82" as="targetPoint" />
+            <mxPoint x="197.81500000000005" y="2243.07" as="sourcePoint" />
+            <mxPoint x="288" y="2353.82" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RUlDnIiTWdbKFg5DgWMq-160" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -556,6 +556,191 @@
         </mxCell>
         <mxCell id="MgbEQDitMIPxZw4n5yvV-52" value="공원으로 간다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="3150" width="106.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-53" value="나 ( = 혜진)&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="3960" width="60" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-54" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;산책한다&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="83.5" y="3943" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MgbEQDitMIPxZw4n5yvV-56" target="MgbEQDitMIPxZw4n5yvV-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-56" value="트랙을 걷는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344.5" y="3748.09" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MgbEQDitMIPxZw4n5yvV-58" target="MgbEQDitMIPxZw4n5yvV-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-58" value="트랙을 발견한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="224.5" y="3748.09" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-59" value="빨리 걷는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="3638.09" width="80" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-60" value="천천히 걷는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="3638.09" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-61" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MgbEQDitMIPxZw4n5yvV-59">
+          <mxGeometry x="-0.1289" y="-4" width="160" relative="1" as="geometry">
+            <mxPoint x="333.4200000000001" y="3688.085" as="sourcePoint" />
+            <mxPoint x="366.5" y="3753.09" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-62" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.78;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="446" y="3688.09" as="sourcePoint" />
+            <mxPoint x="422.5" y="3753.09" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MgbEQDitMIPxZw4n5yvV-64" target="MgbEQDitMIPxZw4n5yvV-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-64" value="벤치로 걸어간다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="586" y="3748.09" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MgbEQDitMIPxZw4n5yvV-66" target="MgbEQDitMIPxZw4n5yvV-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-66" value="벤치에서 잠깐 쉰다&lt;br&gt;의자에 앉는다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="702" y="3737.09" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MgbEQDitMIPxZw4n5yvV-68" target="MgbEQDitMIPxZw4n5yvV-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-68" value="운동기구쪽로&lt;br&gt;걸어간다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="376" y="4110" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MgbEQDitMIPxZw4n5yvV-70" target="MgbEQDitMIPxZw4n5yvV-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-70" value="이쁜 꽃을 발견한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="206.25" y="4042" width="111.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-71" value="사진을 찍는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344.25" y="4042" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MgbEQDitMIPxZw4n5yvV-56" target="MgbEQDitMIPxZw4n5yvV-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MgbEQDitMIPxZw4n5yvV-74" target="MgbEQDitMIPxZw4n5yvV-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-74" value="트랙을 다시 걷는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="963" y="3747.09" width="111" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1182.9999600475435" y="3772.124482758621" as="sourcePoint" />
+            <mxPoint x="1202" y="3772.09" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-76" value="시계를 본다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1098" y="3747.09" width="84" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-77" value="산책을 종료한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1202" y="3747.09" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MgbEQDitMIPxZw4n5yvV-79" target="MgbEQDitMIPxZw4n5yvV-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-79" value="힘들다고 느낀다" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="466" y="3748.09" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345.99993816881715" y="4135.0344827586205" as="sourcePoint" />
+            <mxPoint x="376" y="4135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-81" value="운동기구를 찾는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223" y="4110" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="192.99996195004132" y="4134.504482758621" as="sourcePoint" />
+            <mxPoint x="223.00006183118285" y="4134.504482758621" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-83" value="운동한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="83.5" y="4110" width="106.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-84" value="&lt;span style=&quot;color: rgb(255, 41, 8); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp; &amp;nbsp; 주제&amp;nbsp; :&amp;nbsp; 천호공원에서 산책하고 운동한다&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry y="3507" width="280" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-85" value="운동기구로&lt;br&gt;운동한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="496.5" y="4110" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MgbEQDitMIPxZw4n5yvV-87" target="MgbEQDitMIPxZw4n5yvV-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-87" value="의자에서 일어난다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="832" y="3747.09" width="111" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MgbEQDitMIPxZw4n5yvV-89" target="MgbEQDitMIPxZw4n5yvV-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-89" value="개를 발견한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="224.5" y="3941.1600000000003" width="90" height="53.37" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MgbEQDitMIPxZw4n5yvV-91" target="MgbEQDitMIPxZw4n5yvV-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-91" value="개 주인에게&amp;nbsp;&lt;br&gt;말을 건다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344.5" y="3941.1600000000003" width="90" height="53.37" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-92" value="개한테 인사한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="3888.09" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-93" value="개 사진 찍는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="3949.59" width="100" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-94" value="개 주인과 잠깐 &lt;br&gt;같이 걷는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450.5" y="3994.53" width="115.5" height="53.37" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-95" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MgbEQDitMIPxZw4n5yvV-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="416" y="3968.09" as="sourcePoint" />
+            <mxPoint x="466" y="3918.09" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-96" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="421" y="3987.09" as="sourcePoint" />
+            <mxPoint x="451" y="4017.09" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-97" value="인터벌로 뛴다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350.5" y="3838.09" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-98" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MgbEQDitMIPxZw4n5yvV-97" target="MgbEQDitMIPxZw4n5yvV-56">
+          <mxGeometry x="-0.4991" y="1" width="160" relative="1" as="geometry">
+            <mxPoint x="444.37999999999954" y="3723.59" as="sourcePoint" />
+            <mxPoint x="415" y="3798.09" as="targetPoint" />
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-99" value="" style="endArrow=none;html=1;rounded=0;entryX=0.021;entryY=0.661;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.664;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MgbEQDitMIPxZw4n5yvV-54" target="MgbEQDitMIPxZw4n5yvV-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="293" y="3820" as="sourcePoint" />
+            <mxPoint x="383" y="3770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-100" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="183.5" y="3965.57" as="sourcePoint" />
+            <mxPoint x="224.5" y="3965.5946700000004" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="194.5" y="3965.57" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgbEQDitMIPxZw4n5yvV-101" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.614;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MgbEQDitMIPxZw4n5yvV-54" target="MgbEQDitMIPxZw4n5yvV-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="283" y="3983.82" as="sourcePoint" />
+            <mxPoint x="373" y="4073.82" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
