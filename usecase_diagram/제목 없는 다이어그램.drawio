@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T00:20:59.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="x6sCU-3VaWgVDd2Fd7Vk" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T08:59:31.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="rCbw1vmq0Y62YZXziQVr" version="21.6.6" type="github">
   <diagram name="페이지-1" id="NogYiFt6grbeuDelkKtF">
-    <mxGraphModel dx="1235" dy="-503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="-360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="7XqZdIhTyuAvpvpUgryh-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7XqZdIhTyuAvpvpUgryh-6" target="7XqZdIhTyuAvpvpUgryh-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7XqZdIhTyuAvpvpUgryh-6" value="트랙을 발견한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7XqZdIhTyuAvpvpUgryh-6" value="트랙으로 간다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290.92" y="2022.43" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7XqZdIhTyuAvpvpUgryh-7" value="빨리 걷는다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -113,7 +113,7 @@
         <mxCell id="7XqZdIhTyuAvpvpUgryh-31" value="산책 후 운동한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="156.75" y="2370" width="106.25" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7XqZdIhTyuAvpvpUgryh-32" value="&lt;span style=&quot;color: rgb(255, 41, 8); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp; &amp;nbsp; 주제&amp;nbsp; :&amp;nbsp; 날씨가 맑을 때 천호공원에서 산책하고 운동한다&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="7XqZdIhTyuAvpvpUgryh-32" value="&lt;span style=&quot;color: rgb(255, 41, 8); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp; &amp;nbsp; 주제&amp;nbsp; :&amp;nbsp; 날씨가 맑을 때 천호공원에서 산책하거나 운동한다&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="10" y="1820" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7XqZdIhTyuAvpvpUgryh-33" value="운동기구로&lt;br&gt;운동한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -200,6 +200,21 @@
             <mxPoint x="80" y="2310" as="sourcePoint" />
             <mxPoint x="160" y="2380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XwiYL4lB5-3dDQU4jIjI-2" value="벤치를 확인한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="666" y="2080" width="102.42" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XwiYL4lB5-3dDQU4jIjI-3" value="벤치로 걷는다" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="765.4200000000001" y="2080" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XwiYL4lB5-3dDQU4jIjI-4" value="생각한다" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="539.75" y="2080" width="102.42" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XwiYL4lB5-3dDQU4jIjI-5" value="없어도됨 얘네&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2120" width="102.42" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XwiYL4lB5-3dDQU4jIjI-6" value="시간맞춰 쉰다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1971.43" width="183" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
