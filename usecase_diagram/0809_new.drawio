@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T00:30:56.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="MWQban1GbzlFYovmoaun" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T02:23:01.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="-aR12RmLv9ehEHYMCkSc" version="21.6.7" type="github">
   <diagram name="페이지-1" id="PGyz6WDO0yjTCRolJygI">
     <mxGraphModel dx="1500" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,8 +124,8 @@
             <mxPoint x="1364" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a6851HNYbTkYE2Kyq5rs-35" value="&amp;nbsp;* 주제 : 출근할 때 회사 근처에서&amp;nbsp; 커피를 산다" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="20" y="500" width="260" height="70" as="geometry" />
+        <mxCell id="a6851HNYbTkYE2Kyq5rs-35" value="&amp;nbsp;* 주제 : 출근할 때 회사 근처에서&amp;nbsp; 커피(따뜻한 라떼)를 산다" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="20" y="500" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="a6851HNYbTkYE2Kyq5rs-37" value="음악들으면서 걷는다&amp;nbsp;&lt;br&gt;(생각나중에)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="610" width="150" height="50" as="geometry" />
