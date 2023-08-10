@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T02:23:01.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="-aR12RmLv9ehEHYMCkSc" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T02:31:51.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="JbeNFnJFPJ8Fw-IxHSwG" version="21.6.7" type="github">
   <diagram name="페이지-1" id="PGyz6WDO0yjTCRolJygI">
     <mxGraphModel dx="1500" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,8 +245,8 @@
         <mxCell id="a6851HNYbTkYE2Kyq5rs-78" value="나" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="680" width="70" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Is8hs5n2m14lxhJMue_L-2" value="&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;** 생각하면서 걷는걸 표현하고 싶으면 걷는다에서 extend 해야되나 ?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1100" width="390" height="60" as="geometry" />
+        <mxCell id="Is8hs5n2m14lxhJMue_L-2" value="&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;** 생각하면서 걷는걸 표현하고 싶으면 걷는다에서 extend 해야되나 ?&lt;br&gt;** 신호등에서 기다리면서 어느가게로 갈지 결정하는걸 어떻게 인과관계를&amp;nbsp; 만들지 ?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1100" width="470" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
