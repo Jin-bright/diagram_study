@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T02:42:41.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Q5m7ZecOVv1I8VWhXVC2" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T04:48:03.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nNEkbUGYQifQsjGPCzkU" version="21.6.8" type="github">
   <diagram name="페이지-1" id="-gUJO7mvoviYp6cwUs_T">
-    <mxGraphModel dx="1038" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1128" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,6 +180,12 @@
             <mxPoint x="383" y="170" as="targetPoint" />
             <mxPoint y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tMN2ydZxakkYXUKhEtnf-1" value="&lt;font color=&quot;#ff2908&quot;&gt;여기 확장관계로 하는거 아님 &lt;br&gt;-- 유스케이스 내용을 이렇게 하면 안됨&amp;nbsp;&amp;nbsp;&lt;br&gt;액터는 나&amp;nbsp; //&amp;nbsp; 내가 뭘 한다&lt;/font&gt;&lt;font color=&quot;#d91717&quot;&gt;&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="840" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tMN2ydZxakkYXUKhEtnf-2" value="&lt;font color=&quot;#ff2908&quot;&gt;덜그렸음 연락처&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="50" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
