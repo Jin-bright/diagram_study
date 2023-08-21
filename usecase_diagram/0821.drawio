@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T02:15:23.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="EndCGEEbUZYx2xBds3W0" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T03:02:58.812Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="gtZYBiSFJkR-mRlooaVq" version="21.6.8" type="github">
   <diagram name="페이지-1" id="MFKN5Ci9k2T4Dopon6Y4">
     <mxGraphModel dx="1235" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,13 +68,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cqbs5DqlXvKsnWu7oeCE-17" value="통화 상대의 번호를 처음부터 끝까지 입력한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="384.25" y="1830" width="260" height="50" as="geometry" />
+          <mxGeometry x="372.25" y="1830" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cqbs5DqlXvKsnWu7oeCE-18" value="단축번호를 누른다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="2010" width="128.5" height="40" as="geometry" />
+          <mxGeometry x="383" y="2010" width="128.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cqbs5DqlXvKsnWu7oeCE-19" value="통화 버튼을 눌러서 &lt;br&gt;전화를 건다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="675.25" y="1830" width="121" height="50" as="geometry" />
+          <mxGeometry x="663.25" y="1830" width="121" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cqbs5DqlXvKsnWu7oeCE-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.345;entryY=1.025;entryDx=0;entryDy=0;exitX=0.664;exitY=-0.019;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="cqbs5DqlXvKsnWu7oeCE-2" target="cqbs5DqlXvKsnWu7oeCE-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -120,46 +120,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cqbs5DqlXvKsnWu7oeCE-28" value="빈 화면에서 통화 아이콘을 누른다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="401.25" y="1920" width="200" height="40" as="geometry" />
+          <mxGeometry x="389.25" y="1920" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cqbs5DqlXvKsnWu7oeCE-29" value="&#39;키패드&#39; 메뉴를 선택한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215.25" y="1920" width="164.25" height="40" as="geometry" />
+          <mxGeometry x="203.25" y="1920" width="164.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cqbs5DqlXvKsnWu7oeCE-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cqbs5DqlXvKsnWu7oeCE-29" target="cqbs5DqlXvKsnWu7oeCE-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="421" y="1935" as="sourcePoint" />
-            <mxPoint x="510" y="1915" as="targetPoint" />
+            <mxPoint x="409" y="1935" as="sourcePoint" />
+            <mxPoint x="498" y="1915" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cqbs5DqlXvKsnWu7oeCE-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.559;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cqbs5DqlXvKsnWu7oeCE-29" target="cqbs5DqlXvKsnWu7oeCE-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="441" y="1935" as="sourcePoint" />
-            <mxPoint x="531" y="1975" as="targetPoint" />
+            <mxPoint x="429" y="1935" as="sourcePoint" />
+            <mxPoint x="519" y="1975" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cqbs5DqlXvKsnWu7oeCE-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.605;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cqbs5DqlXvKsnWu7oeCE-29" target="cqbs5DqlXvKsnWu7oeCE-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="401" y="1915" as="sourcePoint" />
-            <mxPoint x="457.5" y="1894" as="targetPoint" />
+            <mxPoint x="389" y="1915" as="sourcePoint" />
+            <mxPoint x="445.5" y="1894" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cqbs5DqlXvKsnWu7oeCE-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.616;exitY=0.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cqbs5DqlXvKsnWu7oeCE-34" target="cqbs5DqlXvKsnWu7oeCE-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="766.25" y="1910" as="sourcePoint" />
+            <mxPoint x="754.25" y="1910" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="736.25" y="1907" />
-              <mxPoint x="736.25" y="1875" />
+              <mxPoint x="724.25" y="1907" />
+              <mxPoint x="724.25" y="1875" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cqbs5DqlXvKsnWu7oeCE-34" value="화면에 가장 최근에 발신했던 번호가 &lt;br&gt;자동 완성이 되어서 뜬 걸 확인한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="622.25" y="1905" width="213" height="70" as="geometry" />
+          <mxGeometry x="610.25" y="1905" width="213" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cqbs5DqlXvKsnWu7oeCE-35" value="통화 상대를 선택한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="454.25" y="1622.75" width="139" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="cqbs5DqlXvKsnWu7oeCE-36" value="&#39;전화번호&#39; 를 눌러서 전화를 건다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="726.75" y="1610" width="118" height="55" as="geometry" />
+          <mxGeometry x="705.25" y="1631.5" width="118" height="55" as="geometry" />
         </mxCell>
         <mxCell id="cqbs5DqlXvKsnWu7oeCE-37" value="목록을 밑으로 내려서 찾는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385.25" y="1708" width="170" height="40" as="geometry" />
