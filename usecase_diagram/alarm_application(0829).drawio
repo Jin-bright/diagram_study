@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T04:57:32.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="fcySuPhClqW6623qgj1r" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T05:15:33.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0HsKby6HLpHJCLmtpNox" version="21.6.9" type="github">
   <diagram name="페이지-1" id="njK5p5rhTmzjdiSMJk1E">
     <mxGraphModel dx="2209" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,62 +13,26 @@
         <mxCell id="BJGbjpMF_LNjH99lksO5-11" value="시계 앱을 실행한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="53" y="410" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BJGbjpMF_LNjH99lksO5-12" value="알람 탭을 누른다&lt;br&gt;( 알람 탭을 찾아 선택해서 들어간다 )&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJGbjpMF_LNjH99lksO5-12" value="알람 탭을 누른다&lt;br&gt;( 알람 탭을 선택해서 들어간다 )&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="183" y="410" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BJGbjpMF_LNjH99lksO5-13" value="알람 시간을 셋팅한다&lt;br&gt;( 정한다 .. 선택한다,., )" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="803" y="310" width="160" height="60" as="geometry" />
+        <mxCell id="BJGbjpMF_LNjH99lksO5-22" value="기존에 있던 알람 중 하나를 눌러서 &lt;br&gt;&#39;알람 편집&#39;&amp;nbsp;화면으로 화면 전환을 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="320" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BJGbjpMF_LNjH99lksO5-14" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.43;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="BJGbjpMF_LNjH99lksO5-16">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="855" y="310" as="sourcePoint" />
-            <mxPoint x="963" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BJGbjpMF_LNjH99lksO5-16" value="약 봉투에 적힌&lt;br&gt;시간을 본다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="763" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BJGbjpMF_LNjH99lksO5-18" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.43;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.742;exitY=0.066;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="BJGbjpMF_LNjH99lksO5-19" source="BJGbjpMF_LNjH99lksO5-13">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="945" y="310" as="sourcePoint" />
-            <mxPoint x="1053" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BJGbjpMF_LNjH99lksO5-19" value="평소 식사하는 시간을&amp;nbsp;&lt;br&gt;생각해본다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="893" y="180" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BJGbjpMF_LNjH99lksO5-20" value="알람을 맞추기 위한 화면으로 들어간다???&amp;nbsp;&lt;br&gt;ㄴ 아직 알람을 맞추는게 아니라 전체적인 알람 리스트를 볼수있는 화면인데 뭐라 표현하지 ?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333" y="415" width="280" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BJGbjpMF_LNjH99lksO5-21" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.43;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.587;exitY=0.046;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="BJGbjpMF_LNjH99lksO5-22" source="BJGbjpMF_LNjH99lksO5-20">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="495" y="425" as="sourcePoint" />
-            <mxPoint x="603" y="425" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BJGbjpMF_LNjH99lksO5-22" value="기존에 있던 알람 중 하나를 누른다 ? 선택한다 ?&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="603" y="310" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BJGbjpMF_LNjH99lksO5-23" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.43;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="BJGbjpMF_LNjH99lksO5-24" source="BJGbjpMF_LNjH99lksO5-20">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="562" y="429" as="sourcePoint" />
-            <mxPoint x="693" y="425" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BJGbjpMF_LNjH99lksO5-24" value="+ 버튼을 눌러서 새로&lt;br&gt;알람을 맞춘다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="608" y="500" width="140" height="60" as="geometry" />
+        <mxCell id="BJGbjpMF_LNjH99lksO5-24" value="오른쪽 상단 + 버튼을 눌러서 &lt;br&gt;&#39;알람 추가&#39; 화면으로 화면 전환을 한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="510" width="225" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJGbjpMF_LNjH99lksO5-25" value="요일 반복 설정을 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="973" y="640" width="140" height="60" as="geometry" />
+          <mxGeometry x="1090" y="640" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJGbjpMF_LNjH99lksO5-26" value="알람을 끈다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1073" y="430" width="110" height="60" as="geometry" />
+          <mxGeometry x="1190" y="430" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJGbjpMF_LNjH99lksO5-27" value="약을 바로 먹는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1213" y="380" width="110" height="60" as="geometry" />
+          <mxGeometry x="1330" y="380" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJGbjpMF_LNjH99lksO5-28" value="조금 더 있다 먹는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1213" y="480" width="110" height="60" as="geometry" />
+          <mxGeometry x="1330" y="480" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJGbjpMF_LNjH99lksO5-30" value="&lt;br&gt;주제 : 시계 어플리케이션 중 알람 기능을 사용하여 정기적으로 약을 먹는 시간 알람을 셋팅한다.&amp;nbsp;&lt;br&gt;유스케이스 간 인과관계" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-800" y="90" width="300" height="60" as="geometry" />
@@ -98,7 +62,7 @@
           <mxGeometry x="-100" y="345" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJGbjpMF_LNjH99lksO5-39" value="약 먹는 시간에 맞춰서&amp;nbsp;&lt;br&gt;알람을 맞춰야겠다는&lt;br&gt;생각을 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-670" y="415" width="160" height="60" as="geometry" />
+          <mxGeometry x="-700" y="415" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJGbjpMF_LNjH99lksO5-40" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.43;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="BJGbjpMF_LNjH99lksO5-41">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -117,6 +81,45 @@
         </mxCell>
         <mxCell id="BJGbjpMF_LNjH99lksO5-43" value="평소 식사하는 시간을&amp;nbsp;&lt;br&gt;생각해본다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-580" y="285" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJGbjpMF_LNjH99lksO5-44" value="알람 시간을 셋팅한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="430" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJGbjpMF_LNjH99lksO5-45" value="알람을 저장을 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="430" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJGbjpMF_LNjH99lksO5-46" value="반복 설정을 한다&lt;br&gt;(매일 필요한 경우 모든 요일)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="733" y="430" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJGbjpMF_LNjH99lksO5-47" value="레이블에 내용을 적는다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="639" y="525" width="147" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJGbjpMF_LNjH99lksO5-48" value="Q. 그 외에 필요한 설정은 저장을 하기 전에 optional 할수있는데 &lt;br&gt;이걸 어디다가 extend 하는거지 ?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF2908;" vertex="1" parent="1">
+          <mxGeometry x="524" y="780" width="377" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJGbjpMF_LNjH99lksO5-49" value="사운드를 바꾼다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="525" width="117" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJGbjpMF_LNjH99lksO5-50" value="다시 알림 설정을 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="754" y="585" width="147" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJGbjpMF_LNjH99lksO5-51" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.371;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.742;exitY=0.066;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="BJGbjpMF_LNjH99lksO5-49">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="852" y="490" as="sourcePoint" />
+            <mxPoint x="883" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BJGbjpMF_LNjH99lksO5-52" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.632;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="BJGbjpMF_LNjH99lksO5-47">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="790" y="490" as="sourcePoint" />
+            <mxPoint x="760" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BJGbjpMF_LNjH99lksO5-53" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.449;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.742;exitY=0.066;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="BJGbjpMF_LNjH99lksO5-50">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="820" y="490" as="sourcePoint" />
+            <mxPoint x="851" y="415" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
