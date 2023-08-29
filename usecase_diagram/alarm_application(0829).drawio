@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T05:15:33.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0HsKby6HLpHJCLmtpNox" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T05:17:32.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="EebGCC4NbhC45Nk2pCCY" version="21.6.9" type="github">
   <diagram name="페이지-1" id="njK5p5rhTmzjdiSMJk1E">
-    <mxGraphModel dx="2209" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3036" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BJGbjpMF_LNjH99lksO5-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;정기적으로 약을 먹는 사람&amp;nbsp;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="390" width="40" height="80" as="geometry" />
+          <mxGeometry x="-820" y="350" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BJGbjpMF_LNjH99lksO5-10" value="스마트폰을 든다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-477" y="415" width="110" height="60" as="geometry" />
@@ -22,17 +22,14 @@
         <mxCell id="BJGbjpMF_LNjH99lksO5-24" value="오른쪽 상단 + 버튼을 눌러서 &lt;br&gt;&#39;알람 추가&#39; 화면으로 화면 전환을 한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="510" width="225" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BJGbjpMF_LNjH99lksO5-25" value="요일 반복 설정을 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="640" width="140" height="60" as="geometry" />
+        <mxCell id="BJGbjpMF_LNjH99lksO5-26" value="알람이 울리면 알람을 끈다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="430" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BJGbjpMF_LNjH99lksO5-26" value="알람을 끈다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="430" width="110" height="60" as="geometry" />
+        <mxCell id="BJGbjpMF_LNjH99lksO5-27" value="약을 먹는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="430" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BJGbjpMF_LNjH99lksO5-27" value="약을 바로 먹는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="380" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BJGbjpMF_LNjH99lksO5-28" value="조금 더 있다 먹는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="480" width="110" height="60" as="geometry" />
+        <mxCell id="BJGbjpMF_LNjH99lksO5-28" value="지금 먹는다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="365" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BJGbjpMF_LNjH99lksO5-30" value="&lt;br&gt;주제 : 시계 어플리케이션 중 알람 기능을 사용하여 정기적으로 약을 먹는 시간 알람을 셋팅한다.&amp;nbsp;&lt;br&gt;유스케이스 간 인과관계" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-800" y="90" width="300" height="60" as="geometry" />
@@ -88,7 +85,7 @@
         <mxCell id="BJGbjpMF_LNjH99lksO5-45" value="알람을 저장을 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="430" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BJGbjpMF_LNjH99lksO5-46" value="반복 설정을 한다&lt;br&gt;(매일 필요한 경우 모든 요일)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BJGbjpMF_LNjH99lksO5-46" value="요일 반복 설정을 한다&lt;br&gt;(매일 필요한 경우 모든 요일)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="733" y="430" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJGbjpMF_LNjH99lksO5-47" value="레이블에 내용을 적는다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -120,6 +117,9 @@
             <mxPoint x="820" y="490" as="sourcePoint" />
             <mxPoint x="851" y="415" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BJGbjpMF_LNjH99lksO5-54" value="쫌 더 있다 먹는다,,&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="520" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
