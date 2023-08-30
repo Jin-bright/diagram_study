@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T04:39:39.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="jdDfzMvb3tmyKfsAF3ED" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T04:41:08.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="k_qog2y1Ynf7HugNyqmB" version="21.6.9" type="github">
   <diagram name="페이지-1" id="njK5p5rhTmzjdiSMJk1E">
-    <mxGraphModel dx="2265" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1655" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,8 +40,8 @@
         <mxCell id="BJGbjpMF_LNjH99lksO5-28" value="지금 먹는다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="997" y="335" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BJGbjpMF_LNjH99lksO5-30" value="&lt;br&gt;주제 : 시계 어플리케이션 중 알람 기능을 사용하여 정기적으로 약을 먹는 시간 알람을 셋팅한다.&amp;nbsp;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="90" width="550" height="60" as="geometry" />
+        <mxCell id="BJGbjpMF_LNjH99lksO5-30" value="&lt;br&gt;주제 : 정기적으로 약을 먹는 사람이 아이폰 시계 어플리케이션 중 알람 기능을 사용하여 약을 먹는 시간 알람을 셋팅 후 약을 먹는다.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-800" y="90" width="720" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJGbjpMF_LNjH99lksO5-31" value="폰 잠금을 푼다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-360" y="610" width="110" height="60" as="geometry" />
