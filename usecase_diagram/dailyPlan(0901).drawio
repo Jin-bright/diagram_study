@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T08:36:24.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="7_Hy7gJXnZcS0cP3aw6p" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T08:49:26.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0c9TMfiAQlHqonaszS3S" version="21.7.2" type="github">
   <diagram name="페이지-1" id="b-UZYAw1pXOODbbfBWXU">
     <mxGraphModel dx="2440" dy="175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry x="705" y="1660" width="170" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bCG06Xong5YbKZuL8soF-19" value="오늘 일정 중 못한 것과 내일 일정을 체크하고&lt;br&gt;일을 마무리한다.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1360" y="1495" width="260" height="60" as="geometry" />
+          <mxGeometry x="1380" y="1480" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bCG06Xong5YbKZuL8soF-32" value="오후 일정 계획을 실행한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1250" y="1570" width="170" height="45" as="geometry" />
