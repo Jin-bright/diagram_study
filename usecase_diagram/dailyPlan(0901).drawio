@@ -1,119 +1,189 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T07:14:14.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="QlEu-mVLmTm64ftV108u" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T08:36:09.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="6OF9H68h1t-MAsOwhbax" version="21.7.2" type="github">
   <diagram name="페이지-1" id="b-UZYAw1pXOODbbfBWXU">
-    <mxGraphModel dx="2901" dy="2311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Z9UkNsEjIgAB2yaQEzFp-3" value="생각을 하고 -&amp;gt; 계획을 짠다 -&amp;gt; 실행한다&lt;br&gt;&lt;br&gt;근데 내가 짠 계획끼리 인과관계가 있을려면 ?&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" width="320" height="60" as="geometry" />
+          <mxGeometry x="545" y="1200" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-14" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="270" width="890" height="570" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-1" value="&lt;p&gt;&lt;strong&gt;주제 : 나의 하루 계획을 유스케이스로 표현하기&lt;/strong&gt;&lt;/p&gt;- 나의 하루 계획은 회사에 출근 후 노트북을 키면서 실행되는거임&amp;nbsp;&lt;br&gt;&lt;p&gt;ㄴ 구조화  / 구어체 / 액터 중요 / 인과관계 중요  / 스토리&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ㄴ 일정 텍스트를 보여주고 / 유스케이스를 보여주기&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="10" y="1180" width="490" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Z9UkNsEjIgAB2yaQEzFp-14" source="bCG06Xong5YbKZuL8soF-2" target="Z9UkNsEjIgAB2yaQEzFp-6">
+        <mxCell id="bCG06Xong5YbKZuL8soF-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1031" y="1592.5" as="sourcePoint" />
+            <mxPoint x="1061" y="1593" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-15" value="오전 일정 계획을 실행한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="860" y="1570" width="170" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-16" value="용어 조사를 한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="1440" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-17" value="UML 숙제를 한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="1495" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-18" value="홈페이지 리뷰 회의에 &lt;br&gt;참석한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="705" y="1660" width="170" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-19" value="오늘 일정 중 못한 것과 내일 일정을 체크하고&lt;br&gt;일을 마무리한다.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="1495" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-32" value="오후 일정 계획을 실행한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="1570" width="170" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bCG06Xong5YbKZuL8soF-34" target="bCG06Xong5YbKZuL8soF-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-2" value="편지쓰기를 클릭한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z9UkNsEjIgAB2yaQEzFp-14">
-          <mxGeometry x="350" y="110" width="120" height="80" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-34" value="11:40분이 되어 &lt;br&gt;점심 식사를&amp;nbsp; 한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="1569.5" width="170" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-11" value="오늘 참석해야 할 일정이 있는지 &lt;br&gt;확인한다" style="ellipse;whiteSpace=wrap;html=1;" parent="Z9UkNsEjIgAB2yaQEzFp-14" vertex="1">
-          <mxGeometry x="460" y="270" width="200" height="65" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-37" value="용어 조사를 한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="1682.5" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Z9UkNsEjIgAB2yaQEzFp-14" source="bCG06Xong5YbKZuL8soF-6" target="bCG06Xong5YbKZuL8soF-7">
+        <mxCell id="bCG06Xong5YbKZuL8soF-38" value="검색을 한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="930" y="1795" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-39" value="워드에 내용을 정리한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="1757" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-40" value="ppt 를 만든다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="810" y="1754" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HdQIe0lHVReNmPLPV30v-5" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.706;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bCG06Xong5YbKZuL8soF-18" target="bCG06Xong5YbKZuL8soF-15">
+          <mxGeometry x="-0.187" y="-1" width="160" relative="1" as="geometry">
+            <mxPoint x="890" y="1660" as="sourcePoint" />
+            <mxPoint x="587" y="1647" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HdQIe0lHVReNmPLPV30v-9" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.45;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bCG06Xong5YbKZuL8soF-38" target="bCG06Xong5YbKZuL8soF-37">
+          <mxGeometry x="0.0412" y="9" width="160" relative="1" as="geometry">
+            <mxPoint x="990" y="1729" as="sourcePoint" />
+            <mxPoint x="970" y="1750" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HdQIe0lHVReNmPLPV30v-10" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.457;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bCG06Xong5YbKZuL8soF-39" target="bCG06Xong5YbKZuL8soF-37">
+          <mxGeometry x="-0.4651" y="4" width="160" relative="1" as="geometry">
+            <mxPoint x="1130" y="1740" as="sourcePoint" />
+            <mxPoint x="1003" y="1762.5" as="targetPoint" />
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bCG06Xong5YbKZuL8soF-2" target="Z9UkNsEjIgAB2yaQEzFp-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-6" value="노트북을 켠다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z9UkNsEjIgAB2yaQEzFp-14">
-          <mxGeometry x="20" y="110" width="120" height="80" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-2" value="편지쓰기를 클릭한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="467" y="1355" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Z9UkNsEjIgAB2yaQEzFp-14" source="bCG06Xong5YbKZuL8soF-7" target="bCG06Xong5YbKZuL8soF-2">
+        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-11" value="오늘 참석해야 할 일정이 있는지 &lt;br&gt;확인한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="605" y="1520" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bCG06Xong5YbKZuL8soF-6" target="bCG06Xong5YbKZuL8soF-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-7" value="메신저에서&amp;nbsp;&lt;br&gt;받은 편지함을 열어&lt;br&gt;새 메일이 있는 지 확인한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z9UkNsEjIgAB2yaQEzFp-14">
-          <mxGeometry x="170" y="110" width="160" height="80" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-6" value="노트북을 켠다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="1345" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Z9UkNsEjIgAB2yaQEzFp-14" source="Z9UkNsEjIgAB2yaQEzFp-6" target="Z9UkNsEjIgAB2yaQEzFp-9">
+        <mxCell id="bCG06Xong5YbKZuL8soF-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bCG06Xong5YbKZuL8soF-7" target="bCG06Xong5YbKZuL8soF-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-6" value="오늘 일정 계획을 적는다" style="ellipse;whiteSpace=wrap;html=1;" parent="Z9UkNsEjIgAB2yaQEzFp-14" vertex="1">
-          <mxGeometry x="510" y="127.5" width="170" height="45" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-7" value="메신저에서&amp;nbsp;받은 편지함을 열어&lt;br&gt;새 메일이 있는 지 확인한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="1340" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-10" value="달력을 확인한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z9UkNsEjIgAB2yaQEzFp-14">
-          <mxGeometry x="470" y="210" width="170" height="45" as="geometry" />
+        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-6" value="오늘 일정 계획을 적는다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1357.5" width="170" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-11" value="회의실 예약 내역을 확인한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z9UkNsEjIgAB2yaQEzFp-14">
-          <mxGeometry x="630" y="240" width="170" height="45" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-10" value="달력을 확인한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="1445" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-12" value="기존에 쓰던 템플릿을 복사한다" style="ellipse;whiteSpace=wrap;html=1;" parent="Z9UkNsEjIgAB2yaQEzFp-14" vertex="1">
-          <mxGeometry x="260" y="240" width="200" height="65" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-11" value="회의실 예약 내역을 확인한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="1445" width="170" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-9" value="메일을 보낸다" style="ellipse;whiteSpace=wrap;html=1;" parent="Z9UkNsEjIgAB2yaQEzFp-14" vertex="1">
-          <mxGeometry x="710" y="127.5" width="170" height="45" as="geometry" />
+        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-12" value="기존에 쓰던 템플릿을 복사 후&lt;br&gt;세부 내용을 수정한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="1490" width="200" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-15" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;이게 9:30분까지 내가 하는 일 = 계획하고 편지보내기&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="230" width="300" height="30" as="geometry" />
+        <mxCell id="HdQIe0lHVReNmPLPV30v-2" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.2;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bCG06Xong5YbKZuL8soF-10" target="Z9UkNsEjIgAB2yaQEzFp-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="690" y="1420" as="sourcePoint" />
+            <mxPoint x="630" y="1410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-1" value="&lt;p&gt;&lt;strong&gt;주제 : 나의 하루 계획을 유스케이스로 표현하기&lt;/strong&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;ㄴ 구조화  / 구어체 / 액터 중요 / 인과관계 중요  / 스토리&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ㄴ 일정 텍스트를 보여주고 / 유스케이스를 보여주기&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-40" width="310" height="120" as="geometry" />
+        <mxCell id="HdQIe0lHVReNmPLPV30v-3" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.625;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.035;entryY=0.811;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z9UkNsEjIgAB2yaQEzFp-12" target="Z9UkNsEjIgAB2yaQEzFp-6">
+          <mxGeometry x="0.0412" y="9" width="160" relative="1" as="geometry">
+            <mxPoint x="630" y="1390" as="sourcePoint" />
+            <mxPoint x="450" y="1430" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bCG06Xong5YbKZuL8soF-15" target="bCG06Xong5YbKZuL8soF-34">
+        <mxCell id="HdQIe0lHVReNmPLPV30v-1" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.424;exitY=-0.044;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bCG06Xong5YbKZuL8soF-11" target="Z9UkNsEjIgAB2yaQEzFp-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="810" y="1460" as="sourcePoint" />
+            <mxPoint x="890" y="1401.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HdQIe0lHVReNmPLPV30v-4" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z9UkNsEjIgAB2yaQEzFp-11" target="Z9UkNsEjIgAB2yaQEzFp-6">
+          <mxGeometry x="-0.6596" y="5" width="160" relative="1" as="geometry">
+            <mxPoint x="860" y="1530" as="sourcePoint" />
+            <mxPoint x="580" y="1500" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-9" value="메일을 보낸다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="870" y="1357.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Z9UkNsEjIgAB2yaQEzFp-6" target="Z9UkNsEjIgAB2yaQEzFp-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-15" value="오전 일정 계획을 실행한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="397.5" width="170" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-16" value="용어 조사를 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="330" width="170" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-17" value="UML 숙제를 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="500" width="170" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-18" value="홈페이지 리뷰 회의에 &lt;br&gt;참석한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="310" width="170" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-19" value="오늘 일정 중 못한 것과 내일 일정을 체크하고&lt;br&gt;일을 마무리한다.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="492.5" width="290" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-20" value="검색을 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="250" width="110" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-21" value="워드에 내용을 정리한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="295" width="140" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-22" value="ppt 를 만든다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="285" width="100" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-24" value="종이에 use case diagram을 &lt;br&gt;그린다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="585" width="170" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-25" value="인터넷 사이트를 활용해&amp;nbsp;&lt;br&gt;use case diagram을 그린다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="585" width="170" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z9UkNsEjIgAB2yaQEzFp-9" target="bCG06Xong5YbKZuL8soF-15">
+        <mxCell id="HdQIe0lHVReNmPLPV30v-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HdQIe0lHVReNmPLPV30v-14" target="bCG06Xong5YbKZuL8soF-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-32" value="오후 일정 계획을 실행한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="397.5" width="170" height="45" as="geometry" />
+        <mxCell id="HdQIe0lHVReNmPLPV30v-14" value="혜진" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1330" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bCG06Xong5YbKZuL8soF-34" target="bCG06Xong5YbKZuL8soF-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="HdQIe0lHVReNmPLPV30v-15" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.043;entryY=0.767;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.59;exitY=0.044;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bCG06Xong5YbKZuL8soF-40" target="bCG06Xong5YbKZuL8soF-37">
+          <mxGeometry x="0.0052" y="-3" width="160" relative="1" as="geometry">
+            <mxPoint x="930" y="1750" as="sourcePoint" />
+            <mxPoint x="880" y="1780" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-34" value="11:40분이 되어 &lt;br&gt;점심 식사를&amp;nbsp; 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="397.5" width="170" height="45" as="geometry" />
+        <mxCell id="HdQIe0lHVReNmPLPV30v-17" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="bCG06Xong5YbKZuL8soF-15">
+          <mxGeometry x="-0.0164" y="2" width="160" relative="1" as="geometry">
+            <mxPoint x="980" y="1680" as="sourcePoint" />
+            <mxPoint x="900" y="1652" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-37" value="용어 조사를 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="945" y="455" width="170" height="45" as="geometry" />
+        <mxCell id="HdQIe0lHVReNmPLPV30v-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.418;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z9UkNsEjIgAB2yaQEzFp-9" target="bCG06Xong5YbKZuL8soF-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="1430" as="sourcePoint" />
+            <mxPoint x="1000" y="1380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-38" value="검색을 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="545" width="110" height="45" as="geometry" />
+        <mxCell id="HdQIe0lHVReNmPLPV30v-20" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.653;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bCG06Xong5YbKZuL8soF-17" target="bCG06Xong5YbKZuL8soF-32">
+          <mxGeometry x="0.1638" y="1" width="160" relative="1" as="geometry">
+            <mxPoint x="1312" y="1510.5" as="sourcePoint" />
+            <mxPoint x="1320" y="1560" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-39" value="워드에 내용을 정리한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="500" width="140" height="45" as="geometry" />
+        <mxCell id="HdQIe0lHVReNmPLPV30v-22" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.653;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.435;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="bCG06Xong5YbKZuL8soF-32">
+          <mxGeometry x="-0.2518" y="-1" width="160" relative="1" as="geometry">
+            <mxPoint x="1328" y="1490" as="sourcePoint" />
+            <mxPoint x="1358" y="1590" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-40" value="ppt 를 만든다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="875" y="492.5" width="100" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-42" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1)&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="230" width="300" height="30" as="geometry" />
+        <mxCell id="HdQIe0lHVReNmPLPV30v-24" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.435;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bCG06Xong5YbKZuL8soF-19" target="bCG06Xong5YbKZuL8soF-32">
+          <mxGeometry x="0.0359" y="7" width="160" relative="1" as="geometry">
+            <mxPoint x="1474" y="1570" as="sourcePoint" />
+            <mxPoint x="1470" y="1650" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
