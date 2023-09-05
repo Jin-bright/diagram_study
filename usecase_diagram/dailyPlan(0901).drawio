@@ -1,77 +1,119 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T06:25:21.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="uB1BaQ8qL5jEkWw_W6ly" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T07:13:30.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="TR6a-WzHb1lDyfaUKX67" version="21.7.1" type="github">
   <diagram name="페이지-1" id="b-UZYAw1pXOODbbfBWXU">
-    <mxGraphModel dx="1506" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2901" dy="2311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-1" value="오늘 발표를 할것인지&lt;br&gt;생각한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="360" width="120" height="80" as="geometry" />
+        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-3" value="생각을 하고 -&amp;gt; 계획을 짠다 -&amp;gt; 실행한다&lt;br&gt;&lt;br&gt;근데 내가 짠 계획끼리 인과관계가 있을려면 ?&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-2" value="발표를 할거다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="300" width="90" height="60" as="geometry" />
+        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-14" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="270" width="890" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-3" value="생각을 하고 -&amp;gt; 계획을 짠다 -&amp;gt; 실행한다&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="150" width="320" height="60" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Z9UkNsEjIgAB2yaQEzFp-14" source="bCG06Xong5YbKZuL8soF-2" target="Z9UkNsEjIgAB2yaQEzFp-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-4" value="발표를 안한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="300" width="90" height="60" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-2" value="편지쓰기를 클릭한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z9UkNsEjIgAB2yaQEzFp-14">
+          <mxGeometry x="350" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-5" value="&#39;편지쓰기&#39;를 클릭한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="244" y="380" width="130" height="45" as="geometry" />
+        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-11" value="오늘 참석해야 할 일정이 있는지 &lt;br&gt;확인한다" style="ellipse;whiteSpace=wrap;html=1;" parent="Z9UkNsEjIgAB2yaQEzFp-14" vertex="1">
+          <mxGeometry x="460" y="270" width="200" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-6" value="오늘 일정 계획 내용을 적는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="380" width="170" height="45" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Z9UkNsEjIgAB2yaQEzFp-14" source="bCG06Xong5YbKZuL8soF-6" target="bCG06Xong5YbKZuL8soF-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-8" value="교육이 있는지&lt;br&gt;확인한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="480" width="90" height="65" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-6" value="노트북을 켠다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z9UkNsEjIgAB2yaQEzFp-14">
+          <mxGeometry x="20" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-9" value="메일을 보낸다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="380" width="170" height="45" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Z9UkNsEjIgAB2yaQEzFp-14" source="bCG06Xong5YbKZuL8soF-7" target="bCG06Xong5YbKZuL8soF-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-10" value="오늘 발표를 할것인지&lt;br&gt;생각한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="440" width="120" height="80" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-7" value="메신저에서&amp;nbsp;&lt;br&gt;받은 편지함을 열어&lt;br&gt;새 메일이 있는 지 확인한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z9UkNsEjIgAB2yaQEzFp-14">
+          <mxGeometry x="170" y="110" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-11" value="제일 중요한 일정이 뭔지 생각한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="384" y="552" width="200" height="65" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Z9UkNsEjIgAB2yaQEzFp-14" source="Z9UkNsEjIgAB2yaQEzFp-6" target="Z9UkNsEjIgAB2yaQEzFp-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-12" value="기존에 쓰던 템플릿을 복사한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="384" y="270" width="200" height="65" as="geometry" />
+        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-6" value="오늘 일정 계획을 적는다" style="ellipse;whiteSpace=wrap;html=1;" parent="Z9UkNsEjIgAB2yaQEzFp-14" vertex="1">
+          <mxGeometry x="510" y="127.5" width="170" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-13" value="용어조사를 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="440" width="170" height="45" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-10" value="달력을 확인한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z9UkNsEjIgAB2yaQEzFp-14">
+          <mxGeometry x="470" y="210" width="170" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-14" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="250" width="570" height="470" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-11" value="회의실 예약 내역을 확인한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z9UkNsEjIgAB2yaQEzFp-14">
+          <mxGeometry x="630" y="240" width="170" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-15" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;이게 9:30분까지 내가 하는 일&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="220" width="200" height="30" as="geometry" />
+        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-12" value="기존에 쓰던 템플릿을 복사한다" style="ellipse;whiteSpace=wrap;html=1;" parent="Z9UkNsEjIgAB2yaQEzFp-14" vertex="1">
+          <mxGeometry x="260" y="240" width="200" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-18" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="250" width="980" height="470" as="geometry" />
+        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-9" value="메일을 보낸다" style="ellipse;whiteSpace=wrap;html=1;" parent="Z9UkNsEjIgAB2yaQEzFp-14" vertex="1">
+          <mxGeometry x="710" y="127.5" width="170" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-20" value="ppt 를 만든다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z9UkNsEjIgAB2yaQEzFp-18">
-          <mxGeometry x="130" y="150" width="100" height="45" as="geometry" />
+        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-15" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;이게 9:30분까지 내가 하는 일 = 계획하고 편지보내기&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="230" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-7" value="계획을 실행한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z9UkNsEjIgAB2yaQEzFp-18">
-          <mxGeometry x="170" y="5" width="170" height="45" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-1" value="&lt;p&gt;&lt;strong&gt;주제 : 나의 하루 계획을 유스케이스로 표현하기&lt;/strong&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;ㄴ 구조화  / 구어체 / 액터 중요 / 인과관계 중요  / 스토리&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ㄴ 일정 텍스트를 보여주고 / 유스케이스를 보여주기&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-40" width="310" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-22" value="용어 검색을 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z9UkNsEjIgAB2yaQEzFp-18">
-          <mxGeometry x="40" y="120" width="110" height="45" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bCG06Xong5YbKZuL8soF-15" target="bCG06Xong5YbKZuL8soF-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-23" value="워드에 내용을 정리한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z9UkNsEjIgAB2yaQEzFp-18">
-          <mxGeometry x="40" y="260" width="140" height="45" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-15" value="오전 일정 계획을 실행한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="397.5" width="170" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-16" value="11:40분이 되어 &lt;br&gt;점심을 먹으러 간다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z9UkNsEjIgAB2yaQEzFp-18">
-          <mxGeometry x="280" y="190" width="170" height="45" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-16" value="용어 조사를 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="330" width="170" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-17" value="밥을 먹는다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z9UkNsEjIgAB2yaQEzFp-18">
-          <mxGeometry x="490" y="190" width="170" height="45" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-17" value="UML 숙제를 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="500" width="170" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-25" value="사무실로 돌아온다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Z9UkNsEjIgAB2yaQEzFp-18">
-          <mxGeometry x="690" y="190" width="170" height="45" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-18" value="홈페이지 리뷰 회의에 &lt;br&gt;참석한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="310" width="170" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Z9UkNsEjIgAB2yaQEzFp-19" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;오전시간&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="220" width="200" height="30" as="geometry" />
+        <mxCell id="bCG06Xong5YbKZuL8soF-19" value="오늘 일정 중 못한 것과 내일 일정을 체크하고&lt;br&gt;일을 마무리한다.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="492.5" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-20" value="검색을 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="250" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-21" value="워드에 내용을 정리한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="295" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-22" value="ppt 를 만든다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="285" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-24" value="종이에 use case diagram을 &lt;br&gt;그린다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="585" width="170" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-25" value="인터넷 사이트를 활용해&amp;nbsp;&lt;br&gt;use case diagram을 그린다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="585" width="170" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z9UkNsEjIgAB2yaQEzFp-9" target="bCG06Xong5YbKZuL8soF-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-32" value="오후 일정 계획을 실행한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="397.5" width="170" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bCG06Xong5YbKZuL8soF-34" target="bCG06Xong5YbKZuL8soF-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-34" value="11:40분이 되어 &lt;br&gt;점심 식사를&amp;nbsp; 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="397.5" width="170" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-37" value="용어 조사를 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="945" y="455" width="170" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-38" value="검색을 한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="545" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-39" value="워드에 내용을 정리한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="500" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-40" value="ppt 를 만든다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="875" y="492.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bCG06Xong5YbKZuL8soF-42" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1)&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="230" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
