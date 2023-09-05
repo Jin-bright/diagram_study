@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T08:36:09.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="6OF9H68h1t-MAsOwhbax" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T08:36:24.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="7_Hy7gJXnZcS0cP3aw6p" version="21.7.2" type="github">
   <diagram name="페이지-1" id="b-UZYAw1pXOODbbfBWXU">
     <mxGraphModel dx="2440" dy="175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="Z9UkNsEjIgAB2yaQEzFp-3" value="생각을 하고 -&amp;gt; 계획을 짠다 -&amp;gt; 실행한다&lt;br&gt;&lt;br&gt;근데 내가 짠 계획끼리 인과관계가 있을려면 ?&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="545" y="1200" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bCG06Xong5YbKZuL8soF-1" value="&lt;p&gt;&lt;strong&gt;주제 : 나의 하루 계획을 유스케이스로 표현하기&lt;/strong&gt;&lt;/p&gt;- 나의 하루 계획은 회사에 출근 후 노트북을 키면서 실행되는거임&amp;nbsp;&lt;br&gt;&lt;p&gt;ㄴ 구조화  / 구어체 / 액터 중요 / 인과관계 중요  / 스토리&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ㄴ 일정 텍스트를 보여주고 / 유스케이스를 보여주기&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="bCG06Xong5YbKZuL8soF-1" value="&lt;p&gt;&lt;strong&gt;주제 : 나의 하루 계획을 유스케이스로 표현하기 (9/5일 하루)&lt;/strong&gt;&lt;/p&gt;- 나의 하루 계획은 회사에 출근 후 노트북을 키면서 실행되는거임&amp;nbsp;&lt;br&gt;&lt;p&gt;ㄴ 구조화  / 구어체 / 액터 중요 / 인과관계 중요  / 스토리&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ㄴ 일정 텍스트를 보여주고 / 유스케이스를 보여주기&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="10" y="1180" width="490" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bCG06Xong5YbKZuL8soF-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
