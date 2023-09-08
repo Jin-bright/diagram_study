@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-08T07:04:05.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="iFwxnuRbmv3UwJEf2LmT" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-08T07:04:13.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="xNOsYENjZNwJRTzzzm6d" version="21.7.2" type="github">
   <diagram name="페이지-1" id="53Q3UClLWomSRLcQ5Eca">
     <mxGraphModel dx="2074" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
         <mxCell id="aBRIKeooZYA7CBRIlUgZ-4" value="층을 이동한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="1026" width="134" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="aBRIKeooZYA7CBRIlUgZ-5" value="외부 화면에 메세지를&lt;br&gt;보여준다" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="aBRIKeooZYA7CBRIlUgZ-5" value="외부 화면에 메세지를&lt;br&gt;보여준다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="810" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aBRIKeooZYA7CBRIlUgZ-6" value="문을 닫는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
