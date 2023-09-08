@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-08T07:03:57.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="FnPEIWJlUnfCLMEtKs3E" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-08T07:04:05.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="iFwxnuRbmv3UwJEf2LmT" version="21.7.2" type="github">
   <diagram name="페이지-1" id="53Q3UClLWomSRLcQ5Eca">
     <mxGraphModel dx="2074" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -259,7 +259,7 @@
             <mxPoint x="850" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aBRIKeooZYA7CBRIlUgZ-64" value="엘레베이터 유스케이스 다이어그램&amp;nbsp;&lt;br&gt;- 요구사항에 충실했나 ?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aBRIKeooZYA7CBRIlUgZ-64" value="엘레베이터 유스케이스 다이어그램&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="596" width="330" height="34" as="geometry" />
         </mxCell>
         <mxCell id="aBRIKeooZYA7CBRIlUgZ-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.931;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aBRIKeooZYA7CBRIlUgZ-8" target="rM92m6WjBes2DzVafnE3-23">
