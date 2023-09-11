@@ -1,14 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T07:14:12.806Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="sYWM1DVui_X_XXqvgISI" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T08:56:50.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="NRyBnuSLbg4SPhgynqwB" version="21.7.4" type="github">
   <diagram name="페이지-1" id="k2FcLoicwnxRyfrrzRYV">
-    <mxGraphModel dx="1185" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rPYXtISZH8Ec6PWSo8-g-1" value="혜진" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="rPYXtISZH8Ec6PWSo8-g-1" value="혜진" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="540" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rPYXtISZH8Ec6PWSo8-g-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="rPYXtISZH8Ec6PWSo8-g-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="770" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RUqWmiBKXHMPYA4MpKj5-1" value="내가 가고싶은 나라를 정한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="540" width="226" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RUqWmiBKXHMPYA4MpKj5-2" value="가고싶은 호텔을 정한다&lt;br&gt;- 호텔 선택권은 나한테만 있음,," style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="540" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RUqWmiBKXHMPYA4MpKj5-3" value="같이 여행 계획을 세운다&amp;nbsp;&lt;br&gt;다른 주제는 몰라,,." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="240" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RUqWmiBKXHMPYA4MpKj5-4" value="항공권은 알아서 찾는다..&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="545" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RUqWmiBKXHMPYA4MpKj5-5" value="가고싶은 호텔을 정한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="430" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RUqWmiBKXHMPYA4MpKj5-6" value="가고싶은 장소를 정한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="560" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RUqWmiBKXHMPYA4MpKj5-7" value="하고 싶은 거, 먹고싶은거, 방문하고싶은 관광지가 있는 지 묻는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="650" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RUqWmiBKXHMPYA4MpKj5-8" value="픽스 하기 전데 혹시 다른 데 가고 싶은데가 있는지 묻는다&amp;nbsp;&lt;br&gt;( 예의상,,ㅎ)&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="440" width="324" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RUqWmiBKXHMPYA4MpKj5-9" value="여행일에 출발한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="630" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
