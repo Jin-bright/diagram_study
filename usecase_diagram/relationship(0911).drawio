@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T05:00:06.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="kr9jNC8kqiT49t47wHSe" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T08:13:44.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="aYsd0GzMG8MFFp-2LlzD" version="21.7.4" type="github">
   <diagram name="페이지-1" id="k2FcLoicwnxRyfrrzRYV">
-    <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3728" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,6 +289,145 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="615" y="2160" as="sourcePoint" />
             <mxPoint x="665" y="2080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sgVWATZ6JxTvrlaYK0Lv-2" target="sgVWATZ6JxTvrlaYK0Lv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-2" value="혜진" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="1730" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sgVWATZ6JxTvrlaYK0Lv-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-645" y="1775" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-4" value="비행기에 탑승한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="1735" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sgVWATZ6JxTvrlaYK0Lv-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1115" y="2655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-6" value="혜진" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="2610" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sgVWATZ6JxTvrlaYK0Lv-8" target="sgVWATZ6JxTvrlaYK0Lv-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-8" value="여행을 좋아한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120.5" y="2620" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-12" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1484" y="2620" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sgVWATZ6JxTvrlaYK0Lv-13" target="sgVWATZ6JxTvrlaYK0Lv-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-13" value="여행을 계획한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="2750" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-14" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="3080" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sgVWATZ6JxTvrlaYK0Lv-15" target="sgVWATZ6JxTvrlaYK0Lv-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-15" value="가고싶은 나라를 정한다(생각한다?)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1093.5" y="2880" width="213" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-16" value="가고싶은 호텔을 정한다&lt;br&gt;- 호텔 선택권은 나한테만 있음,," style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1779" y="3480" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-17" value="항공권은 둘다 찾는다..&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1314" y="3280" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-18" value="가고싶은 호텔을 정한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1459" y="3475" width="175" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-19" value="가고싶은 장소를 정한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2086.5" y="3265" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-20" value="하고 싶은 거, 먹고싶은거, 방문하고싶은 관광지가 있는 지 묻는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1534" y="3280" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-21" value="픽스 하기 전데 혹시 다른 데 가고 싶은데가 있는지 묻는다&amp;nbsp;&lt;br&gt;( 예의상,,ㅎ)&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1067.5" y="3380" width="324" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-22" value="의견을 조율한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="3390" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-23" value="항공, 호텔, 가고싶은 관광지 등을 검색한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1414" y="3380" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-24" value="예약한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1364" y="2875" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-25" value="여행갈 수 있을지&amp;nbsp;&lt;br&gt;날짜를 체크한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="984" y="3760" width="226" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-26" value="나라는 혜진이 가고싶은곳으로..정한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1244" y="3760" width="226" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-27" value="항공, 호텔, 가고싶은 관광지 등을 검색한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1519" y="3770" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-28" value="가고싶은 식당을 검색한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1494" y="3710" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-29" value="혜진한테 의견을 묻는다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1664" y="3590" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-30" value="예약한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2134" y="3760" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-31" value="그외 기타 정보도.." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1519" y="3880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-32" value="로밍예약" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2144" y="3830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-33" value="항공권예약" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2274" y="3840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-34" value="식당예약" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2234" y="3910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-35" value="(가고싶은)관광지 예약" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2254" y="3690" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-36" value="호텔예약" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2096.5" y="3475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-37" value="의견을 조율한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1804" y="3760" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-38" value="동선/날씨에 따라.." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1804" y="3840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-39" value="과다비용이면,," style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1944" y="3840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-40" value="비용.." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1874" y="3700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-41" value="뭐든지 사전 조사함&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1634" y="3840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-42" value="예약 내역은 캡쳐로 보관한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2247.5" y="3380" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-43" value="그랩 필요한곳은 미리깐다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2044" y="3690" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-44" value="호텔 빼고 ok..&lt;br&gt;먹는거 과다한거 no.." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1804" y="3300" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sgVWATZ6JxTvrlaYK0Lv-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="sgVWATZ6JxTvrlaYK0Lv-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1510" y="2710" as="sourcePoint" />
+            <mxPoint x="1460" y="2870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
