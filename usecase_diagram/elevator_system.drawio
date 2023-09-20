@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T07:49:27.196Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="w9f8_nVzOh-kKz7Jq4_M" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T07:49:33.205Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="vMwP-VgQP1yaIgVUovWR" version="21.7.5" type="github">
   <diagram name="페이지-1" id="53Q3UClLWomSRLcQ5Eca">
     <mxGraphModel dx="1500" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,9 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="rM92m6WjBes2DzVafnE3-1" value="외부 사용자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="15" y="859" width="50" height="91" as="geometry" />
-        </mxCell>
-        <mxCell id="rM92m6WjBes2DzVafnE3-4" value="엘레베이터를 탄다&lt;br&gt;- 이건 액터가 하는 동작인데 ...&amp;nbsp;&lt;br&gt;다른건 기능? 느낌이고&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="28" y="1780" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rM92m6WjBes2DzVafnE3-6" value="내부 사용자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="1250" width="50" height="90" as="geometry" />
@@ -48,9 +45,6 @@
         </mxCell>
         <mxCell id="aBRIKeooZYA7CBRIlUgZ-21" value="엘레베이터 내부 사용자가 눌러져 있던 비상 호출 버튼을 다시 &lt;br&gt;누르면(=취소) 외부(관리자)와 연결을 끊는다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="778" y="1388" width="352" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="aBRIKeooZYA7CBRIlUgZ-39" value="Q. 외부 사용자를 따로 액터로 둬야될 이유가 있나 ?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="38" y="1730" width="330" height="34" as="geometry" />
         </mxCell>
         <mxCell id="aBRIKeooZYA7CBRIlUgZ-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="rdTeEfIqAY4OYRNNB7oL-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
