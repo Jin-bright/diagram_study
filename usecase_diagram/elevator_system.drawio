@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T00:53:37.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="--kfUCHenyz9nKUevVVG" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T01:11:38.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="PdCY9pee71e6uZnku5Ny" version="21.7.5" type="github">
   <diagram name="페이지-1" id="53Q3UClLWomSRLcQ5Eca">
-    <mxGraphModel dx="2074" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,8 +31,8 @@
         <mxCell id="aBRIKeooZYA7CBRIlUgZ-6" value="엘레베이터 문이 열린 상태에서 일정 시간이 지나면 &lt;br&gt;자동으로 문을 닫는다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="803" y="1500" width="302" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="aBRIKeooZYA7CBRIlUgZ-7" value="목적지 층에 도착 후 엘레베이터가 더 이상 위 혹은 아래로 &lt;br&gt;이동하지 않는 상황이면 엘레베이터 문을 연다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="710" width="358" height="86" as="geometry" />
+        <mxCell id="aBRIKeooZYA7CBRIlUgZ-7" value="목적지 층(1~10층)에 도착 후 엘레베이터가 더 이상 위 혹은 아래로 &lt;br&gt;이동하지 않는 상황이면 엘레베이터 문을 연다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="710" width="388" height="86" as="geometry" />
         </mxCell>
         <mxCell id="aBRIKeooZYA7CBRIlUgZ-8" value="엘레베이터 내부에 1~10 사이의 숫자와&lt;br&gt;비상 호출&amp;nbsp; 버튼 선택 화면을 보여준다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="802.5" y="1196" width="275.5" height="68" as="geometry" />
