@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T02:26:45.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="DXzahVhK_jU0qwjYUuMu" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T02:41:23.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="OswwNQN7xFHH_5eXUS2L" version="21.7.5" type="github">
   <diagram name="페이지-1" id="53Q3UClLWomSRLcQ5Eca">
-    <mxGraphModel dx="875" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,13 +29,16 @@
           <mxGeometry x="810" y="820" width="241" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aBRIKeooZYA7CBRIlUgZ-6" value="엘레베이터 문이 열린 상태에서 일정 시간이 지나면 &lt;br&gt;자동으로 문을 닫는다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="803" y="1500" width="302" height="75" as="geometry" />
+          <mxGeometry x="789" y="1490" width="302" height="75" as="geometry" />
         </mxCell>
         <mxCell id="aBRIKeooZYA7CBRIlUgZ-7" value="목적지 층(1~10층)에 도착 후 엘레베이터가 더 이상 위 혹은 아래로 &lt;br&gt;이동하지 않는 상황이면 엘레베이터 문을 연다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="710" width="388" height="86" as="geometry" />
         </mxCell>
         <mxCell id="aBRIKeooZYA7CBRIlUgZ-8" value="엘레베이터 내부에 1~10 사이의 숫자와&lt;br&gt;비상 호출&amp;nbsp; 버튼 선택 화면을 보여준다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="802.5" y="1196" width="275.5" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="GdP8BiwFbeGVyUo4CVvG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aBRIKeooZYA7CBRIlUgZ-11" target="GdP8BiwFbeGVyUo4CVvG-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aBRIKeooZYA7CBRIlUgZ-11" value="엘레베이터가 목적지 층에 도달하면 &lt;br&gt;더 이상 위/아래 층으로 이동하지 않고 정지한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="910" width="291.5" height="80" as="geometry" />
@@ -44,7 +47,7 @@
           <mxGeometry x="827" y="1000" width="241.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aBRIKeooZYA7CBRIlUgZ-21" value="엘레베이터 내부 사용자가 눌렀던 비상 호출 버튼을 다시 &lt;br&gt;누르면(=취소) 외부(관리자)와 연결을 끊는다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="778" y="1388" width="352" height="90" as="geometry" />
+          <mxGeometry x="754.5" y="1380" width="352" height="90" as="geometry" />
         </mxCell>
         <mxCell id="aBRIKeooZYA7CBRIlUgZ-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="rdTeEfIqAY4OYRNNB7oL-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -394,11 +397,17 @@
         <mxCell id="rdTeEfIqAY4OYRNNB7oL-10" value="층 이동을 취소하기 위해&amp;nbsp;&lt;br&gt;기존에 선택되어있는 숫자 버튼을 다시 누른다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="1210" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GdP8BiwFbeGVyUo4CVvG-1" value="안내메세지&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="1250" width="80" height="50" as="geometry" />
+        <mxCell id="GdP8BiwFbeGVyUo4CVvG-1" value="목적지 층 도착 메세지를&amp;nbsp;&lt;br&gt;엘레베이터 내부 화면에 보여준다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="540" y="915" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GdP8BiwFbeGVyUo4CVvG-2" value="자동문열림" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="1249.5" width="80" height="50.5" as="geometry" />
+        <mxCell id="GdP8BiwFbeGVyUo4CVvG-2" value="엘레베이터에 타는 사람을 인식하면 &lt;br&gt;자동으로 문이 열린다" style="ellipse;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="802.5" y="1610" width="258" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GdP8BiwFbeGVyUo4CVvG-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="GdP8BiwFbeGVyUo4CVvG-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1310" y="1150" as="sourcePoint" />
+            <mxPoint x="1115" y="1548" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
