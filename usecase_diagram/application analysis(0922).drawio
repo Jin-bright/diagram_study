@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T05:28:02.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="sKs1VQLLQudmZGa_bpKr" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T05:28:35.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="N4u9IAV9whMNVM30KdkI" version="21.8.2" type="github">
   <diagram name="페이지-1" id="xmTBzVtpNkQksvbnsbZ5">
     <mxGraphModel dx="1313" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -162,70 +162,70 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AR608SKm-qjw57Sl3JIb-35" value="메일을 받는 사람" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="44" y="2345.5" width="50" height="91" as="geometry" />
+          <mxGeometry x="38.75" y="2425.5" width="50" height="91" as="geometry" />
         </mxCell>
         <mxCell id="AR608SKm-qjw57Sl3JIb-36" value="메일이 온 걸 확인한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="194" y="2351" width="161.5" height="80" as="geometry" />
+          <mxGeometry x="188.75" y="2431" width="161.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AR608SKm-qjw57Sl3JIb-37" value="답장을 보낸다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="605.5" y="2230" width="86.5" height="60" as="geometry" />
+          <mxGeometry x="600.25" y="2310" width="86.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AR608SKm-qjw57Sl3JIb-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AR608SKm-qjw57Sl3JIb-38" target="AR608SKm-qjw57Sl3JIb-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AR608SKm-qjw57Sl3JIb-38" value="메일 내용을 읽는다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414" y="2301" width="120" height="80" as="geometry" />
+          <mxGeometry x="408.75" y="2381" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AR608SKm-qjw57Sl3JIb-39" value="읽지 않는다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="434" y="2420" width="99" height="70" as="geometry" />
+          <mxGeometry x="428.75" y="2500" width="99" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AR608SKm-qjw57Sl3JIb-40" value="답장을 보내지 않는다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="605.5" y="2311" width="128" height="60" as="geometry" />
+          <mxGeometry x="600.25" y="2391" width="128" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AR608SKm-qjw57Sl3JIb-42" value="어플 알람을 통해&lt;br&gt;메일이 온것을&lt;br&gt;확인한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="154" y="2230" width="120" height="80" as="geometry" />
+          <mxGeometry x="148.75" y="2310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AR608SKm-qjw57Sl3JIb-43" value="메일함(홈페이지)&lt;br&gt;받은편지함에서&lt;br&gt;수신 메일을 확인한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="285" y="2230" width="140" height="80" as="geometry" />
+          <mxGeometry x="279.75" y="2310" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AR608SKm-qjw57Sl3JIb-44" value="다른 방법으로 &lt;br&gt;연락을 한다&lt;br&gt;ex) 전화, 문자, 카톡 등" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="593" y="2391" width="136" height="80" as="geometry" />
+          <mxGeometry x="587.75" y="2471" width="136" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AR608SKm-qjw57Sl3JIb-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AR608SKm-qjw57Sl3JIb-36" target="AR608SKm-qjw57Sl3JIb-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="355.5" y="2381" as="sourcePoint" />
-            <mxPoint x="405.5" y="2331" as="targetPoint" />
+            <mxPoint x="350.25" y="2461" as="sourcePoint" />
+            <mxPoint x="400.25" y="2411" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AR608SKm-qjw57Sl3JIb-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="AR608SKm-qjw57Sl3JIb-36" target="AR608SKm-qjw57Sl3JIb-39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="324" y="2421" as="sourcePoint" />
-            <mxPoint x="434" y="2460" as="targetPoint" />
+            <mxPoint x="318.75" y="2501" as="sourcePoint" />
+            <mxPoint x="428.75" y="2540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AR608SKm-qjw57Sl3JIb-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.017;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="AR608SKm-qjw57Sl3JIb-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="533" y="2331" as="sourcePoint" />
-            <mxPoint x="583" y="2281" as="targetPoint" />
+            <mxPoint x="527.75" y="2411" as="sourcePoint" />
+            <mxPoint x="577.75" y="2361" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AR608SKm-qjw57Sl3JIb-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.012;entryY=0.396;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="AR608SKm-qjw57Sl3JIb-44" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="534" y="2351" as="sourcePoint" />
-            <mxPoint x="604" y="2411" as="targetPoint" />
+            <mxPoint x="528.75" y="2431" as="sourcePoint" />
+            <mxPoint x="598.75" y="2491" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AR608SKm-qjw57Sl3JIb-53" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.455;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.621;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="AR608SKm-qjw57Sl3JIb-43" target="AR608SKm-qjw57Sl3JIb-36" edge="1">
           <mxGeometry x="0.2485" y="2" width="160" relative="1" as="geometry">
-            <mxPoint x="334" y="2310" as="sourcePoint" />
-            <mxPoint x="295" y="2353" as="targetPoint" />
+            <mxPoint x="328.75" y="2390" as="sourcePoint" />
+            <mxPoint x="289.75" y="2433" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AR608SKm-qjw57Sl3JIb-54" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.312;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="AR608SKm-qjw57Sl3JIb-42" target="AR608SKm-qjw57Sl3JIb-36" edge="1">
           <mxGeometry x="0.0762" y="-7" width="160" relative="1" as="geometry">
-            <mxPoint x="202" y="2310" as="sourcePoint" />
-            <mxPoint x="264" y="2357" as="targetPoint" />
+            <mxPoint x="196.75" y="2390" as="sourcePoint" />
+            <mxPoint x="258.75" y="2437" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
