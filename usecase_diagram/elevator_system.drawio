@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T01:35:17.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="rS2tMaI6b7aY9CF0Z2mP" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T07:49:35.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="CEkPG0IqmO-7HN9xHE5X" version="22.0.4" type="github">
   <diagram name="페이지-1" id="53Q3UClLWomSRLcQ5Eca">
-    <mxGraphModel dx="1546" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="2279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -774,7 +774,7 @@
         <mxCell id="yAlIiy7ETGzHICREO5Hh-53" value="비상 호출을 취소하기 위해&lt;br&gt;다시 비상 호출 버튼을 누른다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="206" y="214.5" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yAlIiy7ETGzHICREO5Hh-54" value="스피커를 통해 외부(관리자)와 통화를 한다" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="yAlIiy7ETGzHICREO5Hh-54" value="스피커를 통해 외부(관리자)와 통화를 한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="203.88" y="143" width="254.62" height="57" as="geometry" />
         </mxCell>
         <mxCell id="yAlIiy7ETGzHICREO5Hh-55" value="층 이동을 취소하기 위해&amp;nbsp;&lt;br&gt;기존에 선택되어있는 숫자 버튼을 다시 누른다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -908,8 +908,8 @@
             <mxPoint x="1000" y="-95.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w-M5KCVHIDlObtWKfEG1-1" value="문이 열립니다&amp;nbsp;&lt;br&gt;먼저 보여주고 문을열어야됨&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#fd1212;" vertex="1" parent="1">
-          <mxGeometry x="682.75" y="-509.75" width="190" height="60" as="geometry" />
+        <mxCell id="w-M5KCVHIDlObtWKfEG1-1" value="문이 열립니다&amp;nbsp;&lt;br&gt;먼저 보여주고 문을열어야됨&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#fd1212;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="-569.75" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
