@@ -1,9 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T07:07:13.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.3" etag="vDeG6N5_Qe0LLVAM0jUz" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T07:56:54.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="iT3i_hapOyKWtgG5bdow" version="22.1.3" type="github">
   <diagram name="페이지-1" id="WGsCbrwX18A5P7vnuOGX">
-    <mxGraphModel>
+    <mxGraphModel dx="1728" dy="2094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-1" value="1) 호출&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="-1150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-2" value="2) 층선택" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-660" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-3" value="3) 문개폐" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5" y="-150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-4" value="4) 비상상황" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-5" value="개발자(사용자)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="25" y="-1090" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-6" value="엘리베이터 호출 버튼을 누른다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-1070" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-7" value="도착한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="464" y="-1070" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-8" value="다른층으로 간다&lt;br&gt;(호출/층선택이 있을 경우)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-980" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-9" value="개발자(사용자)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="25" y="-600" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-10" value="층을 선택한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-590" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-11" value="도착한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-590" width="140" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-12" value="다른층으로 간다&lt;br&gt;(호출/층선택이 있을 경우)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-480" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-13" value="동일 층을 선택한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-670" width="130" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-14" value="여러 번 선택한다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-670" width="130" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-15" value="개발자(사용자)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="25" y="-90" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-16" value="문이 열린다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-90" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-17" value="문이 닫힌다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="110" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-18" value="문열림 버튼을 한 번 누른다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="164" y="-190" width="156" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-19" value="문이 열린다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="120" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-20" value="문열림 버튼을 10초 이상 누른다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-190" width="156" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-21" value="문열림 버튼으" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="544" y="-190" width="156" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-22" value="문이 닫힌다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-90" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-23" value="개발자(사용자)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="500" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-24" value="비상 호출 버튼을 누른다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="520" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-25" value="비상 상황임을 인지한다" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="180" y="520" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-26" value="문이 열린다" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="710" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-27" value="외부와 통신한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="557.5" y="520" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-28" value="외부와 통신이 끊긴다( 강제 종료된다)&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="520" width="220" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="H05cbDyKLhoiTRfVVWsK-29" value="&lt;div style=&quot;text-align: center;&quot;&gt;Q. 필요한가 ?&amp;nbsp;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="490" width="100" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
