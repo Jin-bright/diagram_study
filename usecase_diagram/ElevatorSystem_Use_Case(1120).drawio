@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T00:10:38.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="J-DO9MVzdppXhvo-fK_V" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T00:25:04.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3xiq8ybC23iam1V4GgJQ" version="22.1.4" type="github">
   <diagram name="페이지-1" id="WGsCbrwX18A5P7vnuOGX">
-    <mxGraphModel dx="2058" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="2279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,9 +27,6 @@
         </mxCell>
         <mxCell id="H05cbDyKLhoiTRfVVWsK-7" value="목적지 층에 도착한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1340" y="-1080" width="170" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="H05cbDyKLhoiTRfVVWsK-8" value="다른층으로 이동한다&lt;br&gt;(호출/층선택이 있을 경우)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="-880" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H05cbDyKLhoiTRfVVWsK-9" value="개발자(사용자)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="35" y="-580" width="50" height="80" as="geometry" />
@@ -219,9 +216,6 @@
             <mxPoint x="470" y="-590" as="sourcePoint" />
             <mxPoint x="520" y="-640" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="RVkoIpVN_VnyXW2M1HyQ-16" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;요구사항에 끝이 문이 열린다임? 아님 뭐지 ? 이동한다 문열고 닫는다 대기한다 ?&amp;nbsp;&lt;br&gt;&lt;br&gt;이동+문이 열린다가 이동&amp;nbsp;&lt;br&gt;이동 + 문개폐 + 목적지층에서 대기하는게 도착?&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="858" y="-1145" width="500" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RVkoIpVN_VnyXW2M1HyQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RVkoIpVN_VnyXW2M1HyQ-19" target="RVkoIpVN_VnyXW2M1HyQ-20" edge="1">
           <mxGeometry relative="1" as="geometry">
