@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T06:15:41.745Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="80XwgyD2NBkXR594lp3v" version="22.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-28T07:11:19.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9DNZrXW46CjT7u8jnae-" version="22.1.4" type="github" pages="2">
   <diagram name="페이지-1" id="WGsCbrwX18A5P7vnuOGX">
     <mxGraphModel dx="1434" dy="3088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -363,7 +363,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="페이지-1의 복사본" id="gbF3lVsVB2WwX7C7lLKn">
-    <mxGraphModel dx="1455" dy="3088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1071" dy="2872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-0" />
         <mxCell id="RYGdmeos9iTtaeIJ_49A-1" parent="RYGdmeos9iTtaeIJ_49A-0" />
@@ -667,9 +667,6 @@
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-85" value="개발자(사용자)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="RYGdmeos9iTtaeIJ_49A-1">
           <mxGeometry x="28.82" y="-1085" width="50" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="RYGdmeos9iTtaeIJ_49A-86" value="&lt;div style=&quot;text-align: center;&quot;&gt;엘베는 호출하면 돌아서오든 바로오든 이동하고 도착하게 되어있음,,&amp;nbsp;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="RYGdmeos9iTtaeIJ_49A-1">
-          <mxGeometry x="958.84" y="-940" width="384.68" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-87" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="RYGdmeos9iTtaeIJ_49A-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
