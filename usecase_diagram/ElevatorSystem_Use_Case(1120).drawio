@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T00:55:50.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Z2uyXlrkMyo2dU3GzwXX" version="22.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-29T01:00:07.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6I4gpRdA0R9OHngPZMvT" version="22.1.4" type="github" pages="2">
   <diagram name="페이지-1" id="WGsCbrwX18A5P7vnuOGX">
     <mxGraphModel dx="2440" dy="3644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -605,7 +605,7 @@
         <mxCell id="RYGdmeos9iTtaeIJ_49A-72" value="목적지 층에 도착한다" style="ellipse;whiteSpace=wrap;html=1;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
           <mxGeometry x="1237.59" y="-1055" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RYGdmeos9iTtaeIJ_49A-73" value="엘리베이터가 이동한다" style="ellipse;whiteSpace=wrap;html=1;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
+        <mxCell id="RYGdmeos9iTtaeIJ_49A-73" value="엘리베이터가 호출한 층으로 &lt;br&gt;바로 이동한다" style="ellipse;whiteSpace=wrap;html=1;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
           <mxGeometry x="930.0000000000001" y="-1055" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="RYGdmeos9iTtaeIJ_49A-1" source="RYGdmeos9iTtaeIJ_49A-73" target="RYGdmeos9iTtaeIJ_49A-72" edge="1">
@@ -614,14 +614,14 @@
             <mxPoint x="1214.66" y="-1025.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RYGdmeos9iTtaeIJ_49A-75" value="엘리베이터가 이동중인것을 본다&amp;nbsp;&lt;br&gt;(인식한다)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
-          <mxGeometry x="230" y="-1145" width="216" height="80" as="geometry" />
+        <mxCell id="RYGdmeos9iTtaeIJ_49A-75" value="엘리베이터가 이동중인것을 본다&amp;nbsp;&lt;br&gt;(인식한다)&lt;br&gt;&lt;br&gt;즉, 엘리베이터가 이동중이다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
+          <mxGeometry x="210" y="-1145" width="236" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-76" value="엘리베이터가 멈춰서있는 것을 본다&lt;br&gt;(인식한다)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
-          <mxGeometry x="230" y="-1005" width="216" height="80" as="geometry" />
+          <mxGeometry x="200" y="-1005" width="246" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-77" value="엘리베이터의 현재층과 호출한 층과 방향이 동일하며 &lt;br&gt;3층 이상의 층 차이가 난다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
-          <mxGeometry x="642.6399999999999" y="-1249" width="353.93" height="80" as="geometry" />
+          <mxGeometry x="669.9999999999999" y="-1249" width="353.93" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-78" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="RYGdmeos9iTtaeIJ_49A-1" source="RYGdmeos9iTtaeIJ_49A-76" target="RYGdmeos9iTtaeIJ_49A-71" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -641,7 +641,7 @@
             <mxPoint x="1100" y="-1185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RYGdmeos9iTtaeIJ_49A-81" value="" style="endArrow=classic;html=1;rounded=0;" parent="RYGdmeos9iTtaeIJ_49A-1" source="RYGdmeos9iTtaeIJ_49A-71" target="RYGdmeos9iTtaeIJ_49A-77" edge="1">
+        <mxCell id="RYGdmeos9iTtaeIJ_49A-81" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.464;exitY=0.025;exitDx=0;exitDy=0;exitPerimeter=0;" parent="RYGdmeos9iTtaeIJ_49A-1" source="RYGdmeos9iTtaeIJ_49A-71" target="RYGdmeos9iTtaeIJ_49A-77" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1050" y="-1135" as="sourcePoint" />
             <mxPoint x="1100" y="-1185" as="targetPoint" />
@@ -687,6 +687,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="-500" as="sourcePoint" />
             <mxPoint x="211" y="-487" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NmF3FRbz-UbH8y4A7EWB-1" value="&amp;nbsp; &amp;nbsp;또다른 호출 층으로 엘리베이터가 이동한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="RYGdmeos9iTtaeIJ_49A-1">
+          <mxGeometry x="690" y="-870" width="253.93" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NmF3FRbz-UbH8y4A7EWB-2" value="엘리베이터의 현재층과 호출한 층과 방향이 동일하며 &lt;br&gt;3층 이상의 층 차이가 난다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="RYGdmeos9iTtaeIJ_49A-1">
+          <mxGeometry x="1490" y="-1249" width="353.93" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NmF3FRbz-UbH8y4A7EWB-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="RYGdmeos9iTtaeIJ_49A-1" source="NmF3FRbz-UbH8y4A7EWB-1" target="RYGdmeos9iTtaeIJ_49A-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="-1150" as="sourcePoint" />
+            <mxPoint x="1070" y="-1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NmF3FRbz-UbH8y4A7EWB-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.074;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="RYGdmeos9iTtaeIJ_49A-1" source="RYGdmeos9iTtaeIJ_49A-71" target="NmF3FRbz-UbH8y4A7EWB-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="677" y="-1054" as="sourcePoint" />
+            <mxPoint x="732" y="-1171" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
