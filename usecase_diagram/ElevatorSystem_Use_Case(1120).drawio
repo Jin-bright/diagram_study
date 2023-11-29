@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T01:01:36.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="X83u4UdNjeeyUD3fD2yF" version="22.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-29T03:34:48.350Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4jWIkfiJmzO0SKj2mNyb" version="22.1.4" type="github" pages="2">
   <diagram name="페이지-1" id="WGsCbrwX18A5P7vnuOGX">
     <mxGraphModel dx="2440" dy="3644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -363,33 +363,33 @@
     </mxGraphModel>
   </diagram>
   <diagram name="페이지-1의 복사본" id="gbF3lVsVB2WwX7C7lLKn">
-    <mxGraphModel dx="1105" dy="2900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1803" dy="3303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-0" />
         <mxCell id="RYGdmeos9iTtaeIJ_49A-1" parent="RYGdmeos9iTtaeIJ_49A-0" />
         <mxCell id="RYGdmeos9iTtaeIJ_49A-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1) 호출 (조건+이동+도착)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
-          <mxGeometry x="7.5" y="-1810" width="160" height="30" as="geometry" />
+          <mxGeometry x="16.32" y="-1810" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;2) 층선택&lt;/font&gt;(조건+이동&lt;font&gt;+도착&lt;/font&gt;)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
           <mxGeometry x="5" y="-680" width="195" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="RYGdmeos9iTtaeIJ_49A-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;3) 문개폐&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
-          <mxGeometry x="16.32" y="-90" width="65" height="50" as="geometry" />
+        <mxCell id="RYGdmeos9iTtaeIJ_49A-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;3) 문개폐 - 엘베는 도구 ,,&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
+          <mxGeometry x="16.32" y="-90" width="183.68" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;4) 비상상황&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
           <mxGeometry x="16.32" y="780" width="82.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-6" value="개발자(사용자)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
-          <mxGeometry x="25" y="-1760" width="50" height="80" as="geometry" />
+          <mxGeometry x="33.82" y="-1760" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="RYGdmeos9iTtaeIJ_49A-1" source="RYGdmeos9iTtaeIJ_49A-8" target="RYGdmeos9iTtaeIJ_49A-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-8" value="엘리베이터 호출 버튼을 누른다" style="ellipse;whiteSpace=wrap;html=1;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
-          <mxGeometry x="140" y="-1770" width="190" height="80" as="geometry" />
+          <mxGeometry x="148.82" y="-1770" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RYGdmeos9iTtaeIJ_49A-9" value="목적지 층에 도착한다" style="ellipse;whiteSpace=wrap;html=1;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
-          <mxGeometry x="1342.43" y="-1770" width="170" height="80" as="geometry" />
+        <mxCell id="RYGdmeos9iTtaeIJ_49A-9" value="목적지 층에 도착한다&lt;br&gt;내가 호출한 층,," style="ellipse;whiteSpace=wrap;html=1;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
+          <mxGeometry x="680.0000000000001" y="-1770" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-10" value="개발자(사용자)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
           <mxGeometry x="35" y="-580" width="50" height="80" as="geometry" />
@@ -409,7 +409,7 @@
         <mxCell id="RYGdmeos9iTtaeIJ_49A-15" value="개발자(사용자)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
           <mxGeometry x="28.82" y="145" width="50" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RYGdmeos9iTtaeIJ_49A-16" value="문이 열린다" style="ellipse;whiteSpace=wrap;html=1;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
+        <mxCell id="RYGdmeos9iTtaeIJ_49A-16" value="&lt;font color=&quot;#ff2414&quot;&gt;내가 호출한&lt;/font&gt; 엘리베이터 &lt;br&gt;문이 열린다" style="ellipse;whiteSpace=wrap;html=1;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
           <mxGeometry x="176" y="135" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-18" value="문열림 버튼을 한 번 누른다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
@@ -515,33 +515,12 @@
           <mxGeometry x="459.9999999999999" y="-490" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-50" value="엘리베이터가 이동한다" style="ellipse;whiteSpace=wrap;html=1;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
-          <mxGeometry x="399.99999999999994" y="-1770" width="170" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="RYGdmeos9iTtaeIJ_49A-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="RYGdmeos9iTtaeIJ_49A-1" source="RYGdmeos9iTtaeIJ_49A-52" target="RYGdmeos9iTtaeIJ_49A-53" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RYGdmeos9iTtaeIJ_49A-52" value="엘리베이터의 현재층과 호출한 층과 방향이 동일하며 &lt;br&gt;3층 이상의 층 차이가 나는 층에서 호출을 한다" style="ellipse;whiteSpace=wrap;html=1;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
-          <mxGeometry x="570" y="-1640" width="353.93" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="RYGdmeos9iTtaeIJ_49A-53" value="호출한 층으로 엘리베이터가 이동한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
-          <mxGeometry x="978.45" y="-1640" width="230" height="80" as="geometry" />
+          <mxGeometry x="408.81999999999994" y="-1770" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="RYGdmeos9iTtaeIJ_49A-1" source="RYGdmeos9iTtaeIJ_49A-50" target="RYGdmeos9iTtaeIJ_49A-9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="582.4300000000001" y="-1730" as="sourcePoint" />
-            <mxPoint x="640" y="-1730.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RYGdmeos9iTtaeIJ_49A-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="RYGdmeos9iTtaeIJ_49A-1" target="RYGdmeos9iTtaeIJ_49A-52" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="502.43" y="-1690" as="sourcePoint" />
-            <mxPoint x="570" y="-1630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RYGdmeos9iTtaeIJ_49A-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.382;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" parent="RYGdmeos9iTtaeIJ_49A-1" target="RYGdmeos9iTtaeIJ_49A-9" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1208.45" y="-1600" as="sourcePoint" />
-            <mxPoint x="1258.45" y="-1650" as="targetPoint" />
+            <mxPoint x="591.2500000000001" y="-1730" as="sourcePoint" />
+            <mxPoint x="648.82" y="-1730.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-57" value="엘리베이터 문이 열린다" style="ellipse;whiteSpace=wrap;html=1;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
@@ -603,10 +582,10 @@
           <mxGeometry x="553.8199999999999" y="-1065" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-72" value="목적지 층에 도착한다" style="ellipse;whiteSpace=wrap;html=1;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
-          <mxGeometry x="1237.59" y="-1055" width="170" height="80" as="geometry" />
+          <mxGeometry x="1237.59" y="-1055" width="170" height="72" as="geometry" />
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-73" value="엘리베이터가 호출한 층으로 &lt;br&gt;바로 이동한다" style="ellipse;whiteSpace=wrap;html=1;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
-          <mxGeometry x="930.0000000000001" y="-1055" width="170" height="80" as="geometry" />
+          <mxGeometry x="930.0000000000001" y="-1055" width="170" height="72" as="geometry" />
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="RYGdmeos9iTtaeIJ_49A-1" source="RYGdmeos9iTtaeIJ_49A-73" target="RYGdmeos9iTtaeIJ_49A-72" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -619,9 +598,6 @@
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-76" value="엘리베이터가 멈춰서있는 것을 본다&lt;br&gt;(인식한다)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
           <mxGeometry x="200" y="-1005" width="246" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="RYGdmeos9iTtaeIJ_49A-77" value="엘리베이터의 현재층과 호출한 층과 방향이 동일하며 &lt;br&gt;3층 이상의 층 차이가 난다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="RYGdmeos9iTtaeIJ_49A-1" vertex="1">
-          <mxGeometry x="669.9999999999999" y="-1249" width="353.93" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-78" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="RYGdmeos9iTtaeIJ_49A-1" source="RYGdmeos9iTtaeIJ_49A-76" target="RYGdmeos9iTtaeIJ_49A-71" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -639,18 +615,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1050" y="-1135" as="sourcePoint" />
             <mxPoint x="1100" y="-1185" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RYGdmeos9iTtaeIJ_49A-81" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.464;exitY=0.025;exitDx=0;exitDy=0;exitPerimeter=0;" parent="RYGdmeos9iTtaeIJ_49A-1" source="RYGdmeos9iTtaeIJ_49A-71" target="RYGdmeos9iTtaeIJ_49A-77" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1050" y="-1135" as="sourcePoint" />
-            <mxPoint x="1100" y="-1185" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RYGdmeos9iTtaeIJ_49A-82" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.744;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;" parent="RYGdmeos9iTtaeIJ_49A-1" source="RYGdmeos9iTtaeIJ_49A-77" target="RYGdmeos9iTtaeIJ_49A-73" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="-1053" as="sourcePoint" />
-            <mxPoint x="754" y="-1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RYGdmeos9iTtaeIJ_49A-83" value="" style="endArrow=none;html=1;rounded=0;" parent="RYGdmeos9iTtaeIJ_49A-1" edge="1">
@@ -706,6 +670,9 @@
             <mxPoint x="677" y="-1054" as="sourcePoint" />
             <mxPoint x="732" y="-1171" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NmF3FRbz-UbH8y4A7EWB-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;(조건)엘리베이터의 현재층과 호출한 층과 방향이 동일하며&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;3층 이상의 층 차이가 난다&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="RYGdmeos9iTtaeIJ_49A-1">
+          <mxGeometry x="828.5" y="-1125" width="430" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
