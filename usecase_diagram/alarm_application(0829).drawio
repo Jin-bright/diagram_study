@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T01:13:06.006Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="_pSQg0aABrZ7ZY58Lc8q" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T02:21:23.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="oC3MxPvkujdxliwjgdwN" version="21.7.0" type="github">
   <diagram name="페이지-1" id="njK5p5rhTmzjdiSMJk1E">
-    <mxGraphModel dx="2672" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2889" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="BJGbjpMF_LNjH99lksO5-12" value="알람 탭을 선택해서 들어간다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="410" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BJGbjpMF_LNjH99lksO5-22" value="기존에 있던 알람 중 하나를 눌러서 &lt;br&gt;&#39;알람 편집&#39;&amp;nbsp;화면으로 화면 전환을 한다" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BJGbjpMF_LNjH99lksO5-22" value="기존에 있던 알람 중 하나를 눌러서 &lt;br&gt;&#39;알람 편집&#39;&amp;nbsp;화면으로 화면 전환을 한다" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="100" y="210" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BJGbjpMF_LNjH99lksO5-24" value="오른쪽 상단 + 버튼을 눌러서 &lt;br&gt;&#39;알람 추가&#39; 화면으로 화면 전환을 한다&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -218,6 +218,9 @@
             <mxPoint x="230" y="640" as="sourcePoint" />
             <mxPoint x="285" y="498" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HTaJ14rWy7F3MjR9ffPN-1" value="&lt;div style=&quot;text-align: center;&quot;&gt;구어체로 써야된다&amp;nbsp;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=#FF2908;" vertex="1" parent="1">
+          <mxGeometry x="335" y="227.5" width="110" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
